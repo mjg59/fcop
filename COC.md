@@ -61,9 +61,9 @@ These requirements on behavior apply to _members_ at all times, even when they a
 
 **Unofficial Resolution**. For minor offenses and in cases where they prefer doing so, we encourage _victims_ to speak to _violators_, using the language of non-violent communication (NVC). If you would like to do this with the help of an independent mediator, contact us and we will arrange for one.
 
-**Official Resolution**. If you want an official intervention, we will appoint a judge. The judge will speak individually to all parties, including witnesses, before deciding on a course of action, which will involve rejecting the reported violation, or accepting it and imposing a penalty on the _violator_.
+**Official Resolution**. If you want an official intervention, we will appoint an arbiter (consisting of one or more persons). The arbiter will speak individually to all parties, including witnesses, before deciding on a course of action, which will involve rejecting the reported violation, or accepting it and imposing a penalty on the _violator_.
 
-**Penalties**. _Violators_ may be warned, asked to apologize, forced into training, counseling or mediation, or ejected and banned from the _community_, at the sole discretion of the judge.
+**Penalties**. _Violators_ may be warned, asked to apologize, forced into training, counseling or mediation, or ejected and banned from the _community_, at the sole discretion of the arbiter.
 
 **Social Rehabilitation**. No one can be banished for life, only for a determined number of years, not to exceed 5 years. Formerly banned parties can be reintegrated into the _community_ through a rehabilitation process determined by us.
 
