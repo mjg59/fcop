@@ -61,9 +61,9 @@ These requirements on behavior apply to _members_ at all times, even when they a
 
 **Unofficial Resolution**. For minor offenses and in cases where they prefer doing so, we encourage _victims_ to speak to _violators_, using the language of non-violent communication (NVC). If you would like to do this with the help of an independent mediator, contact us and we will arrange for one.
 
-**Official Resolution**. If you want an official intervention, we will appoint an arbiter (consisting of one or more persons). The arbiter will speak individually to all parties, including witnesses, before deciding on a course of action, which will involve rejecting the reported violation, or accepting it and imposing a penalty on the _violator_.
+**Official Resolution**. If you want an official intervention, we will appoint an arbiter (consisting of one or more persons). The arbiter will speak individually to all parties, including witnesses, before deciding on a course of action, which will involve rejecting the reported violation, or accepting it and imposing a consequence on the _violator_.
 
-**Penalties**. _Violators_ may be warned, asked to apologize, forced into training, counseling or mediation, or ejected and banned from the _community_, at the sole discretion of the arbiter.
+**Consequences**. _Violators_ may be warned, asked to apologize, forced into training, counseling or mediation, or ejected and banned from the _community_, at the sole discretion of the arbiter.
 
 **Social Rehabilitation**. No one can be banished for life, only for a determined number of years, not to exceed 5 years. Formerly banned parties can be reintegrated into the _community_ through a rehabilitation process determined by us.
 
@@ -83,7 +83,7 @@ In the event there is a dispute about the meaning of any term or clause in FCOP,
     * **Community Sabotage**. Any behavior (excluding non-violent communication) directed at sabotaging the community for political, religious, ideological, or moral reasons.
     * **Professional Sabotage**. Any behavior directed at sabotaging a _member_'s career for political, religious, ideological, or moral reasons; including attempting to no-platform a _member_ or pressuring an employer to fire a _member_.
  * **Communication**. We define _communication_ as any transmission of information between people, including but not limited to verbal, written, electronic, pictorial, gestural, and tactile.
- * **Community**. We define our _community_ as a group of people with a shared professional interest that exists at some location (online or geographical) and within some span of time. The boundaries of the community are dictated by us, but cannot extend in space or time to any place where we do not have the actual or legal ability to impose FCOP-prescribed penalties on _violators_.
+ * **Community**. We define our _community_ as a group of people with a shared professional interest that exists at some location (online or geographical) and within some span of time. The boundaries of the community are dictated by us, but cannot extend in space or time to any place where we do not have the actual or legal ability to impose FCOP-prescribed consequences on _violators_.
  * **Discrimination**. We define _discrimination_ as any favoritism shown or withheld to someone either on the basis of a stereotype or a non-community related group membership.
  * **Harassment**. We define _harassment_ as an attempt to interact with someone who does not consent to the interaction.
  * **Inactive Participation**. We define _inactive participation_ to include the behavior of members at all times and under all circumstances.
@@ -99,4 +99,4 @@ In the event there is a dispute about the meaning of any term or clause in FCOP,
     * **Judgmental Communication**. Someone has _communicated judgmentally_ about them, their beliefs, their ideas, their religion, their morals, their values, or things they own or use; or someone has done so about a group to which they belong to.
     * **Breaches of Privacy**. Someone has violated their privacy.
  * **Violator**. We define _violator_ as someone who has broken the terms and conditions of FCOP.
- * **We**. We define _we_ to be those who have the actual or legal ability to impose FCOP-prescribed penalties on _violators_ within the physical or virtual boundaries of the _community_.
+ * **We**. We define _we_ to be those who have the actual or legal ability to impose FCOP-prescribed consequences on _violators_ within the physical or virtual boundaries of the _community_.
