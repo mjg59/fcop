@@ -63,7 +63,7 @@ These requirements on behavior apply to _members_ at all times, even when they a
 
 **Official Resolution**. If you want an official intervention, we will appoint an arbiter (consisting of one or more persons). The arbiter will speak individually to all parties, including witnesses, before deciding on a course of action, which will involve rejecting the reported violation, or accepting it and imposing a consequence on the _violator_.
 
-**Consequences**. _Violators_ may be warned, asked to apologize or undergo training, counseling, or mediation as a condition of continued participation, or ejected and banned from the _community_, at the sole discretion of the arbiter.
+**Consequences**. _Violators_ may be warned, asked to apologize or undergo training, counseling, or mediation as a condition of continued participation, or ejected and banned from the _community_, at the sole discretion of the arbiter. In no case will the consequence for FCOP violations (excluding criminal offenses) exceed banishment.
 
 **Social Rehabilitation**. No one can be banished for life, only for a determined number of years, not to exceed 5 years. Formerly banned parties can be reintegrated into the _community_ through a rehabilitation process determined by us.
 
