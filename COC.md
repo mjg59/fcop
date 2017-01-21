@@ -57,7 +57,7 @@ These requirements on behavior apply to _members_ at all times, even when they a
 
 **No Victimless Crime**. If you are a _victim_ but you do not feel victimized, you may choose to not report the _violation_. In this case, we will not treat the incident as a violation.
 
-**Reporting Process**. _Active participation_ violations must be reported to us within 15 days by _victims_, and may not be reported by third-parties. Inactive Participation violations may be reported at any time, and by anyone, even non-_members_.
+**Reporting Process**. _Active participation_ violations must be reported to us within 15 days by _victims_, and may not be reported by third-parties. Inactive Participation violations may be reported to us within 5 years of their occurrence, and by anyone, even non-_members_.
 
 **Unofficial Resolution**. For minor offenses and in cases where they prefer doing so, we encourage _victims_ to speak to _violators_, using the language of non-violent communication (NVC). If you would like to do this with the help of an independent mediator, contact us and we will arrange for one.
 
