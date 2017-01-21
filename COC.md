@@ -41,7 +41,7 @@ These requirements on behavior apply to _members_ only while they are actively p
 
 During _inactive participation_, you must behave as described in this section.
 
-* **Be Civil**. Do not engage in criminal activity, and do not sabotage the _community_ or _member_'s careers for political, religious, ideological, or moral reasons.
+* **Be Civil**. Do not commit criminal offenses, and do not sabotage the _community_ or _member_'s careers for political, religious, ideological, or moral reasons.
 * **Don't Dox**. Do not disseminate any private details about others learned within the _community_ without express permission, including but not limited to real name, address, phone number, or photo identity.
 * **Don't Shame**. You must not negatively communicate about a member's behavior (which occurred inside the _community_, or which you learned about while inside the _community_) with anyone outside the _community_ without express permission of the discussed _members_, where the discussed _members_ themselves decide what is negative.
 
@@ -67,7 +67,7 @@ These requirements on behavior apply to _members_ at all times, even when they a
 
 **Social Rehabilitation**. No one can be banished for life, only for a determined number of years, not to exceed 5 years. Formerly banned parties can be reintegrated into the _community_ through a rehabilitation process determined by us.
 
-**Confidentiality**. Reporting a violation is a confidential process. We will not publish information on any reported incident or the parties involved in the incident. Note that criminal behavior of any kind will not be kept confidential.
+**Confidentiality**. Reporting a violation is a confidential process. We will not publish information on any reported incident or the parties involved in the incident. Note that criminal offenses of any kind will not be kept confidential.
 
 ## Disputes
 
@@ -79,7 +79,7 @@ In the event there is a dispute about the meaning of any term or clause in FCOP,
  * **Behavior**. We define _behavior_ to include all and only observable actions of people, and to explicitly exclude any private thoughts, beliefs, ideas, attitudes, morals, and emotions.
  * **Civil**. We define civil individuals as individuals who, in our sole estimation, do not and will not engage in the following behaviors during _active participation_ or _inactive participation_:
 
-    * **Crimes**. Any criminal behavior in which there is a victim.
+    * **Criminal Offenses**. Any illegal behavior considered a criminal offense in the country of jurisdiction.
     * **Community Sabotage**. Any behavior (excluding non-violent communication) directed at sabotaging the community for political, religious, ideological, or moral reasons.
     * **Professional Sabotage**. Any behavior directed at sabotaging a _member_'s career for political, religious, ideological, or moral reasons; including attempting to no-platform a _member_ or pressuring an employer to fire a _member_.
  * **Communication**. We define _communication_ as any transmission of information between people, including but not limited to verbal, written, electronic, pictorial, gestural, and tactile.
