@@ -89,7 +89,7 @@ In the event there is a dispute about the meaning of any term or clause in FCOP,
  * **Inactive Participation**. We define _inactive participation_ to include the behavior of members at all times and under all circumstances.
  * **Interaction**. We define _interaction_ as any one-on-one communication, physical contact (with person or property), close proximity, or persistent gaze. Interaction does not include opt-in, broadcast-based communication within the Community.
  * **Judgmental Communication**. We define _judgmental communication_ as any communication which asserts or implies that something has intrinsic superiority or inferiority to something else. This includes all forms of name-calling, but explicitly excludes any language that qualifies as non-violent communication (NVC).
- * **Members**. We define a _member_ of the _community_ as a _civil_ individual who we allow to actively participate in the _community_.
+ * **Members**. We define a _member_ of the community to be any civil individual who we allow to actively participate in the community.
  * **Stereotyping**. We define _stereotyping_ as behavior that infers or implies one characteristic of an individual based on their [perceived] membership in some group or category.
  * **Victim**. We define _victims_ as people for whom one or more of the following holds:
 
