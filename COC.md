@@ -55,13 +55,13 @@ These requirements on behavior apply to _members_ at all times, even when they a
 
 ## Violations
 
-**No Victimless Violations**. If you believe you have been adversely affected by a _violation_ but do not feel _wronged_, you may choose to not report the violation. In this case, we will not treat the incident as a violation.
+**No Victimless Violations**. If you believe you have been adversely affected by a _violation_ but are not _aggrieved_, you may choose to not report the violation. In this case, we will not treat the incident as a violation.
 
-**Reporting Process**. _Active participation_ violations must be reported to us within 15 days by _victims_, and may not be reported by third-parties. Inactive Participation violations may be reported to us within 5 years of their occurrence, and by anyone, even non-_members_.
+**Reporting Process**. _Active participation_ violations must be reported to us within 15 days by _aggrieved_ members, and may not be reported by third-parties. Inactive Participation violations may be reported to us within 5 years of their occurrence, and by anyone, even non-_members_.
 
-**Unofficial Resolution**. For minor offenses and in cases where they prefer doing so, we encourage _victims_ to speak to _violators_, using the language of non-violent communication (NVC). If you would like to do this with the help of an independent mediator, contact us and we will arrange for one.
+**Unofficial Resolution**. For minor offenses and in cases where they prefer doing so, we encourage _aggrieved_ members to speak to _accused_ members, using the language of non-violent communication (NVC). If you would like to do this with the help of an independent mediator, contact us and we will arrange for one.
 
-**Official Resolution**. If you want an official intervention, we will appoint an arbiter (consisting of one or more persons). The arbiter will speak individually to all parties, including witnesses, before deciding on a course of action, which will involve rejecting the reported violation, or accepting it and imposing a consequence on the _violator_.
+**Official Resolution**. If you want an official intervention, we will appoint an arbiter (consisting of one or more persons). The arbiter will speak individually to all parties, including witnesses, before deciding on a course of action, which will involve rejecting the reported violation, or accepting it and imposing a consequence on the _accused_ member.
 
 **Consequences**. _Violators_ may be warned, asked to apologize or undergo training, counseling, or mediation as a condition of continued participation, or ejected and banned from the _community_, at the sole discretion of the arbiter. In no case will the consequence for violating FCOP exceed banishment, unless the violation is also governed by a separate contractual agreement or local law.
 
@@ -91,12 +91,13 @@ In the event there is a dispute about the meaning of any term or clause in FCOP,
  * **Judgmental Communication**. We define _judgmental communication_ as any communication which asserts or implies that something has intrinsic superiority or inferiority to something else. This includes all forms of name-calling, but explicitly excludes any language that qualifies as non-violent communication (NVC).
  * **Members**. We define a _member_ of the community to be any civil individual who we allow to actively participate in the community.
  * **Stereotyping**. We define _stereotyping_ as behavior that infers or implies one characteristic of an individual based on their [perceived] membership in some group or category.
- * **Victim**. We define _victims_ as people for whom one or more of the following holds:
+ * **Aggrieved**. We define _aggrieved_ as members who believe that one or more of the following holds:
 
     * **Harassment**. Someone has _harassed_ them.
     * **Discrimination**. Someone has _discriminated_ against them.
     * **Stereotyping**. Someone has _stereotyped_ them or a group they belong to.
     * **Judgmental Communication**. Someone has _communicated judgmentally_ about them, their beliefs, their ideas, their religion, their morals, their values, or things they own or use; or someone has done so about a group to which they belong to.
     * **Breaches of Privacy**. Someone has violated their privacy.
- * **Violator**. We define _violator_ as someone who has broken the terms and conditions of FCOP.
+ * **Accused**.  We define _accused_ as someone who has been attributed a violation by another member.
+ * **Violator**. We define _violator_ as someone who has been judged to have broken the terms and conditions of FCOP.
  * **We**. We define _we_ to be those who have the actual or legal ability to impose FCOP-prescribed consequences on _violators_ within the physical or virtual boundaries of the _community_.
