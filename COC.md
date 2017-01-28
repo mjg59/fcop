@@ -55,9 +55,9 @@ These requirements on behavior apply to _members_ at all times, even when they a
 
 ## Violations
 
-**No Victimless Violations**. If you believe you have been adversely affected by a _violation_ but are not _aggrieved_, you may choose to not report the violation. In this case, we will not treat the incident as a violation.
+**No Victimless Violations**. If you believe you have been adversely affected by a _violation_ but are not _aggrieved_, you may choose to not report the _incident_. In this case, we will not treat the incident as a violation.
 
-**Reporting Process**. _Active participation_ violations must be reported to us within 15 days by _aggrieved_ members, and may not be reported by third-parties. Inactive Participation violations may be reported to us within 5 years of their occurrence, and by anyone, even non-_members_.
+**Reporting Process**. _Active participation_ incidents must be reported to us within 15 days by _aggrieved_ members, and may not be reported by third-parties. Inactive Participation incidents may be reported to us within 5 years of their occurrence, and by anyone, even non-_members_.
 
 **Unofficial Resolution**. For minor offenses and in cases where they prefer doing so, we encourage _aggrieved_ members to speak to _accused_ members, using the language of non-violent communication (NVC). If you would like to do this with the help of an independent mediator, contact us and we will arrange for one.
 
@@ -67,7 +67,7 @@ These requirements on behavior apply to _members_ at all times, even when they a
 
 **Social Rehabilitation**. No one can be banished for life, only for a determined number of years, not to exceed 5 years. Formerly banned parties can be reintegrated into the _community_ through a rehabilitation process determined by us.
 
-**Confidentiality**. Reporting a violation is a confidential process. We will not publish information on any reported incident or the parties involved in the incident. Note that criminal offenses of any kind will not be kept confidential.
+**Confidentiality**. Reporting an incident is a confidential process. We will not publish information on any reported incident or the parties involved in the incident. Note that criminal offenses of any kind will not be kept confidential.
 
 ## Disputes
 
@@ -91,13 +91,16 @@ In the event there is a dispute about the meaning of any term or clause in FCOP,
  * **Judgmental Communication**. We define _judgmental communication_ as any communication which asserts or implies that something has intrinsic superiority or inferiority to something else. This includes all forms of name-calling, but explicitly excludes any language that qualifies as non-violent communication (NVC).
  * **Members**. We define a _member_ of the community to be any civil individual who we allow to actively participate in the community.
  * **Stereotyping**. We define _stereotyping_ as behavior that infers or implies one characteristic of an individual based on their [perceived] membership in some group or category.
- * **Aggrieved**. We define _aggrieved_ as members who believe that one or more of the following holds:
+ * **Aggrieved**. We define _aggrieved_ as a member who believes that one or more of the following holds:
 
     * **Harassment**. Someone has _harassed_ them.
     * **Discrimination**. Someone has _discriminated_ against them.
     * **Stereotyping**. Someone has _stereotyped_ them or a group they belong to.
     * **Judgmental Communication**. Someone has _communicated judgmentally_ about them, their beliefs, their ideas, their religion, their morals, their values, or things they own or use; or someone has done so about a group to which they belong to.
     * **Breaches of Privacy**. Someone has violated their privacy.
- * **Accused**.  We define _accused_ as someone who has been attributed a violation by another member.
- * **Violator**. We define _violator_ as someone who has been judged to have broken the terms and conditions of FCOP.
+ * **Accused**.  We define _accused_ as a member who has been attributed a violation by an _aggrieved_ member.
+ * **Arbiter**. We define _arbiter_ as one or more persons designated by us to resolve complaint of an _incident_.
+ * **Incident**. We define _incident_ as a possible infringement of the FCOP.
+ * **Violation**. We define _violation_ as an actual infringement of the FCOP as determined by an official arbiter.
+ * **Violator**. We define _violator_ as an _accused_ member who has been judged to have broken the terms and conditions of FCOP.
  * **We**. We define _we_ to be those who have the actual or legal ability to impose FCOP-prescribed consequences on _violators_ within the physical or virtual boundaries of the _community_.
