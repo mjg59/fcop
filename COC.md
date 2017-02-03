@@ -6,7 +6,7 @@ Copyright &copy; 2016 - 2017 Fantasyland Institute of Learning. All Rights Reser
 
 The Fantasyland Institute of Learning Code of Professionalism (FCOP) dictates the terms and conditions under which we allow you to participate in the _community_.
 
-The purpose of FCOP is to facilitate inclusiveness and productivity (towards our professional goals) in our _community_ despite operating in a pluralistic society. To accomplish this goal, we restrict the _community_ to _civil_ people, and protect such people from _discrimination_, _stereotyping_, _harassment_, _judgmental communication_, and _breaches of privacy_.
+The purpose of FCOP is to facilitate inclusiveness and productivity in our _community_ despite operating in a pluralistic society. To accomplish this goal, we restrict the _community_ to _civil_ people, and protect such people from _discrimination_, _stereotyping_, _harassment_, _judgmental communication_, and _breaches of privacy_.
 
 FCOP is explicitly not intended to impose any system of politics, religion, ideologies, morals, or values onto _members_.
 
@@ -41,7 +41,7 @@ These requirements on behavior apply to _members_ only while they are actively p
 
 During _inactive participation_, you must behave as described in this section.
 
-* **Be Civil**. Do not commit criminal offenses, and do not sabotage the _community_ or _member_'s careers for political, religious, ideological, or moral reasons.
+* **Be Civil**. Do not commit criminal offenses, and do not sabotage the _community_ or _member_'s careers.
 * **Don't Dox**. Do not disseminate any private details about others learned within the _community_ without express permission, including but not limited to real name, address, phone number, or photo identity.
 * **Don't Shame**. You must not negatively communicate about a member's behavior (which occurred inside the _community_, or which you learned about while inside the _community_) with anyone outside the _community_ without express permission of the discussed _members_, where the discussed _members_ themselves decide what is negative.
 
@@ -86,9 +86,9 @@ In the event there is a dispute about the meaning of any term or clause in FCOP,
  * **Arbiter**. We define _arbiter_ as one or more persons designated by us to resolve complaint of an _incident_.
  * **Behavior**. We define _behavior_ to include all and only observable actions of people, and to explicitly exclude any private thoughts, beliefs, ideas, attitudes, morals, and emotions.
  * **Civil**. We define civil individuals as individuals who, in our sole estimation, do not and will not engage in the following behaviors during _active participation_ or _inactive participation_:
-    * **Criminal Offenses**. Any illegal behavior considered a criminal offense in the country of jurisdiction.
-    * **Community Sabotage**. Any behavior (excluding non-violent communication) directed at sabotaging the community for political, religious, ideological, or moral reasons.
-    * **Professional Sabotage**. Any behavior directed at sabotaging a _member_'s career for political, religious, ideological, or moral reasons; including attempting to no-platform a _member_ or pressuring an employer to fire a _member_.
+    * **Criminal Offenses**. Any illegal behavior considered a criminal offense in the community's country of jurisdiction.
+    * **Community Sabotage**. Any behavior directed at sabotaging the community.
+    * **Professional Sabotage**. Any behavior directed at sabotaging a _member_'s career for any reason that is unrelated to the _member_'s performance in their profession, including but not limited to attempting to no-platform a _member_ or pressuring an employer to fire a _member_, or encouraging others to do the same.
  * **Communication**. We define _communication_ as any transmission of information between people, including but not limited to verbal, written, electronic, pictorial, gestural, and tactile.
  * **Community**. We define our _community_ as a group of people with a shared professional interest that exists at some location (online or geographical) and within some span of time. The boundaries of the community are dictated by us, but cannot extend in space or time to any place where we do not have the actual or legal ability to impose FCOP-prescribed consequences on _violators_.
  * **Discrimination**. We define _discrimination_ as any favoritism shown or withheld to someone either on the basis of a stereotype or a non-community related group membership.
