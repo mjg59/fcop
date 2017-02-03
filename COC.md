@@ -106,3 +106,7 @@ In the event there is a dispute about the meaning of any term or clause in FCOP,
  * **Violation**. We define _violation_ as an actual infringement of the FCOP as determined by an official arbiter.
  * **Violator**. We define _violator_ as an _accused_ member who the arbiter has decided has broken the terms and conditions of FCOP.
  * **We**. We define _we_ to be those who have the actual or legal ability to impose FCOP-prescribed consequences on _violators_ within the physical or virtual boundaries of the _community_.
+
+ ## License
+
+ This work is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/legalcode), with an exception that allows the creation of derivative works that are exclusively created and used for the submission of pull requests to the [official FCOP repository](http://github.com/fantasylandinst/fcop/). By submitting a pull request, you unconditionally and irrevocably assign and transfer all ideas, concepts, copyrighted materials and trademarks within the submission to Fantasyland Institute of Learning.
