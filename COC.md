@@ -16,7 +16,7 @@ We welcome all _civil_ people to participate in the _community_. We do not allow
 
 ## Welcome Statement
 
-We welcome _civil_ people of all genders, gender-expressions, sexual-orientations, gender-orientations, races, ethnic origins, skin colors, physical disabilities, intellectual disabilities, ages, sizes, political views, religious views, philosophies, beliefs, values, and attitudes.
+We welcome all _civil_ people regardless of any physical or mental characteristics orthogonal to the professional goals of the _community_, including all genders, gender-expressions, sexual-orientations, gender-orientations, races, ethnic origins, skin colors, physical disabilities, intellectual disabilities, ages, sizes, political views, religious views, philosophies, beliefs, values, attitudes, and past professions.
 
 We pledge that we will not tolerate _discrimination_, _harassment_, _judgmental communication_, or _breaches of privacy_. We pledge to hold ourselves to these same standards and, in so doing, set a positive example for others to follow.
 
