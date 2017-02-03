@@ -6,19 +6,19 @@ Copyright &copy; 2016 - 2017 Fantasyland Institute of Learning. All Rights Reser
 
 The Fantasyland Institute of Learning Code of Professionalism (FCOP) dictates the terms and conditions under which we allow you to participate in the _community_.
 
-The purpose of FCOP is to facilitate inclusiveness and productivity in our _community_ despite operating in a pluralistic society. To accomplish this goal, we restrict the _community_ to _civil_ people, and protect such people from _discrimination_, _stereotyping_, _harassment_, _judgmental communication_, and _breaches of privacy_.
+The purpose of FCOP is to facilitate inclusiveness and productivity in our _community_ despite operating in a pluralistic society. To accomplish this goal, we restrict the _community_ to _civil_ people, and protect such people from _discrimination_, _stereotyping_, _harassment_, _moralizing_, _denigration_, and _breaches of privacy_.
 
 FCOP is explicitly not intended to impose any system of politics, religion, ideologies, morals, or values onto _members_.
 
 ## Short-Form
 
-We welcome all _civil_ people to participate in the _community_. We do not allow _discrimination_, _harassment_, _judgmental communication_, or _breaches of privacy_. We do not exclude any _civil_ people from our _community_ unless they have been banned by us for a _violation_ of these terms and conditions.
+We welcome all _civil_ people to participate in the _community_. We do not allow _discrimination_, _harassment_, _moralizing_, _denigration_, or _breaches of privacy_. We do not exclude any _civil_ people from our _community_ unless they have been banned by us for a _violation_ of these terms and conditions.
 
 ## Welcome Statement
 
 We welcome all _civil_ people regardless of any physical or mental characteristics orthogonal to the professional goals of the _community_, including all genders, gender-expressions, sexual-orientations, gender-orientations, races, ethnic origins, skin colors, physical disabilities, intellectual disabilities, ages, sizes, political views, religious views, philosophies, beliefs, values, attitudes, and past professions.
 
-We pledge that we will not tolerate _discrimination_, _harassment_, _judgmental communication_, or _breaches of privacy_. We pledge to hold ourselves to these same standards and, in so doing, set a positive example for others to follow.
+We pledge that we will not tolerate _discrimination_, _harassment_, _moralizing_, _denigration_, or _breaches of privacy_. We pledge to hold ourselves to these same standards and, in so doing, set a positive example for others to follow.
 
 We greatly value integrity and pledge to establish the highest levels of trust in _members_.
 
@@ -29,11 +29,12 @@ We greatly value integrity and pledge to establish the highest levels of trust i
 During _active participation_, you must behave as described in this section.
 
 * **Don't Stereotype**. Communicate as if every individual were unique.
-* **Don't Communicate Judgmentally**. You must not communicate the idea that any person, place, thing, idea, or action is superior or inferior to any other. Instead, talk about observations, analyses, models, and your own personal preferences.
-* **Don't Harass**. Do not interact with anyone who does not consent. For interactions of a professional nature, you may assume consent for the first interaction, until the recipient communicates otherwise (examples include, but are not limited to, handshakes, looking at someone who is speaking, providing feedback). For all other interactions, you must assume non-consent until the person clearly and unambiguously communicates otherwise (examples include, but are not limited to, persistent gaze at someone who is not speaking, sexual interactions of any kind).
-* **Don't Pry**. Do not go out of your way to read, watch, or listen to the private communications of other members (including trying to read their screens or listening to their private conversations). If you do read or overhear a private conversation, do not share it.
+* **Don't Moralize**. Do not impose your moral system or values onto others.
+* **Don't Denigrate**. Do not denigrate people's physical or mental characteristics.
+* **Don't Harass**. Do not interact with anyone who does not consent.
+* **Don't Pry**. Do not eavesdrop on private communications of other members.
 * **Don't Obstruct**. Do not attempt to disrupt communication between members, the activity of members, or the congregation of members.
-* **Assume the Best**. Assume the best intention when others communicate with you. If you don’t understand what someone meant, or have questions about it, ask them directly rather than speculating or spreading rumors. If someone appears to be communicating judgmentally ("Coffee is good"), assume they did so only as a shorthand way of speaking, and ask them to clarify what objective metrics and personal predictions and preferences they are implying ("I like coffee").
+* **Assume the Best**. Assume the best intention when others communicate with you. If you don’t understand what someone meant, or have questions about it, ask them directly rather than speculating or spreading rumors.
 
 These requirements on behavior apply to _members_ only while they are actively participating in the _community_. The standing of _members_ is unaffected by behavior that does not comply with these requirements if this behavior occurs in other communities.
 
@@ -81,9 +82,10 @@ In the event there is a dispute about the meaning of any term or clause in FCOP,
  * **Active Participation**. We define _active participation_ to include the behavior of members while they are in the boundaries of the _community_.
  * **Aggrieved**. We define _aggrieved_ as a member who believes that one or more of the following holds:
     * **Breaches of Privacy**. Someone has violated their privacy.
+    * **Denigration**. Someone has _denigrated_ them or a group they belong to.
     * **Discrimination**. Someone has _discriminated_ against them.
     * **Harassment**. Someone has _harassed_ them.
-    * **Judgmental Communication**. We define _judgmental communication_ as any communication which asserts or implies that something has intrinsic superiority or inferiority to something else. This includes all forms of name-calling, but explicitly excludes any language that qualifies as non-violent communication (NVC).
+    * **Moralizing**. Someone has _moralized_ them or a group they belong to.
     * **Stereotyping**. Someone has _stereotyped_ them or a group they belong to.
  * **Arbiter**. We define _arbiter_ as one or more persons designated by us to resolve complaint of an _incident_.
  * **Behavior**. We define _behavior_ to include all and only observable actions of people, and to explicitly exclude any private thoughts, beliefs, ideas, attitudes, morals, and emotions.
@@ -93,13 +95,15 @@ In the event there is a dispute about the meaning of any term or clause in FCOP,
     * **Professional Sabotage**. Any behavior directed at sabotaging a _member_'s career for any reason that is unrelated to the _member_'s performance in their profession, including but not limited to attempting to no-platform a _member_ or pressuring an employer to fire a _member_, or encouraging others to do the same.
  * **Communication**. We define _communication_ as any transmission of information between people, including but not limited to verbal, written, electronic, pictorial, gestural, and tactile.
  * **Community**. We define our _community_ as a group of people with a shared professional interest that exists at some location (online or geographical) and within some span of time. The boundaries of the community are dictated by us, but cannot extend in space or time to any place where we do not have the actual or legal ability to impose FCOP-prescribed consequences on _violators_.
+ * **Denigration**. We define _denigration_ as the _communication_ of the idea that any physical or mental characteristic of any person is superior or inferior to any other. This explicitly excludes communication of the idea that objective, falsifiable statements espoused by someone are inconsistent or unsupported or contradicted by data.
  * **Discrimination**. We define _discrimination_ as any favoritism shown or withheld to someone either on the basis of a stereotype or a non-community related group membership.
- * **Harassment**. We define _harassment_ as an _interaction_ with someone who does not consent to the interaction.
+ * **Harassment**. We define _harassment_ as an _interaction_ with someone who does not consent to the interaction. For interactions of a professional nature, you may assume consent for the first interaction, until the recipient communicates otherwise (examples include handshakes, looking at someone who is speaking, providing feedback). For all other interactions, you must assume non-consent until the person clearly and unambiguously communicates otherwise (examples include persistent gaze at someone who is not speaking, sexual interactions of any kind).
  * **Inactive Participation**. We define _inactive participation_ to include the behavior of members at all times and under all circumstances.
  * **Incident**. We define _incident_ as a possible infringement of the FCOP.
  * **Interaction**. We define _interaction_ as any one-on-one communication, physical contact (with person or property), close proximity, or persistent gaze. Interaction does not include opt-in, broadcast-based communication within the Community.
  * **Members**. We define a _member_ of the community to be any civil individual who we allow to actively participate in the community.
+ * **Moralizing**. We define _moralizing_ as an attempt to evangelize one's moral system or values to others, whether by communicating the idea that their moral system or values are superior to others, or by intimidating people to profess or practice their moral system or values.
  * **Stereotyping**. We define _stereotyping_ as _communication_ that implies one characteristic of an individual based on their perceived membership in some (unrelated or loosely related) group or category.
  * **Violation**. We define _violation_ as an actual infringement of the FCOP as determined by an official arbiter.
- * **Violator**. We define _violator_ as an _accused_ member who has been judged to have broken the terms and conditions of FCOP.
+ * **Violator**. We define _violator_ as an _accused_ member who the arbiter has decided has broken the terms and conditions of FCOP.
  * **We**. We define _we_ to be those who have the actual or legal ability to impose FCOP-prescribed consequences on _violators_ within the physical or virtual boundaries of the _community_.
