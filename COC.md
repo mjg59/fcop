@@ -28,9 +28,9 @@ We greatly value integrity and pledge to establish the highest levels of trust i
 
 During _active participation_, you must behave as described in this section.
 
-* **Don't Stereotype**. Treat everyone as unique. Do not infer characteristics of a person based on their [perceived] membership in some group or category.
+* **Don't Stereotype**. Communicate as if every individual were unique.
 * **Don't Communicate Judgmentally**. You must not communicate the idea that any person, place, thing, idea, or action is superior or inferior to any other. Instead, talk about observations, analyses, models, and your own personal preferences.
-* **Don't Harass**. Do not interact with anyone who does not consent. For interactions of a professional nature, you may assume consent for the first interaction, until the recipient communicates otherwise (examples include, but are not limited to, handshakes, looking at someone who is speaking, commenting professionally on a pull request). For all other interactions, you must assume non-consent until the person clearly and unambiguously communicates otherwise (examples include, but are not limited to, persistent gaze at someone who is not speaking, sexual interactions of any kind).
+* **Don't Harass**. Do not interact with anyone who does not consent. For interactions of a professional nature, you may assume consent for the first interaction, until the recipient communicates otherwise (examples include, but are not limited to, handshakes, looking at someone who is speaking, providing feedback). For all other interactions, you must assume non-consent until the person clearly and unambiguously communicates otherwise (examples include, but are not limited to, persistent gaze at someone who is not speaking, sexual interactions of any kind).
 * **Don't Pry**. Do not go out of your way to read, watch, or listen to the private communications of other members (including trying to read their screens or listening to their private conversations). If you do read or overhear a private conversation, do not share it.
 * **Don't Obstruct**. Do not attempt to disrupt communication between members, the activity of members, or the congregation of members.
 * **Assume the Best**. Assume the best intention when others communicate with you. If you don’t understand what someone meant, or have questions about it, ask them directly rather than speculating or spreading rumors. If someone appears to be communicating judgmentally ("Coffee is good"), assume they did so only as a shorthand way of speaking, and ask them to clarify what objective metrics and personal predictions and preferences they are implying ("I like coffee").
@@ -97,7 +97,7 @@ In the event there is a dispute about the meaning of any term or clause in FCOP,
  * **Incident**. We define _incident_ as a possible infringement of the FCOP.
  * **Interaction**. We define _interaction_ as any one-on-one communication, physical contact (with person or property), close proximity, or persistent gaze. Interaction does not include opt-in, broadcast-based communication within the Community.
  * **Members**. We define a _member_ of the community to be any civil individual who we allow to actively participate in the community.
- * **Stereotyping**. We define _stereotyping_ as behavior that infers or implies one characteristic of an individual based on their [perceived] membership in some group or category.
+ * **Stereotyping**. We define _stereotyping_ as _communication_ that implies one characteristic of an individual based on their perceived membership in some (unrelated or loosely related) group or category.
  * **Violation**. We define _violation_ as an actual infringement of the FCOP as determined by an official arbiter.
  * **Violator**. We define _violator_ as an _accused_ member who has been judged to have broken the terms and conditions of FCOP.
  * **We**. We define _we_ to be those who have the actual or legal ability to impose FCOP-prescribed consequences on _violators_ within the physical or virtual boundaries of the _community_.
