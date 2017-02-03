@@ -37,6 +37,8 @@ During _active participation_, you must behave as described in this section.
 
 These requirements on behavior apply to _members_ only while they are actively participating in the _community_. The standing of _members_ is unaffected by behavior that does not comply with these requirements if this behavior occurs in other communities.
 
+However, if we become aware of behavior in another community that we believe implies a _member_ may not abide by the terms and conditions of FCOP in the _community_, then we reserve the right to take proactive measures to protect other _members_, including but not limited to warning _members_ and instituting oversight or monitoring of the _member_'s behavior in the _community_.
+
 ### Inactive Participation
 
 During _inactive participation_, you must behave as described in this section.
