@@ -33,7 +33,6 @@ During _active participation_, you must behave as described in this section.
 * **Don't Denigrate**. Do not denigrate people's physical or mental characteristics.
 * **Don't Harass**. Do not interact with anyone who does not consent.
 * **Don't Pry**. Do not eavesdrop on private communications of other members.
-* **Don't Obstruct**. Do not attempt to disrupt communication between members, the activity of members, or the congregation of members.
 * **Assume the Best**. Assume the best intention when others communicate with you. If you don’t understand what someone meant, or have questions about it, ask them directly rather than speculating or spreading rumors.
 
 These requirements on behavior apply to _members_ only while they are actively participating in the _community_. The standing of _members_ is unaffected by behavior that does not comply with these requirements if this behavior occurs in other communities.
