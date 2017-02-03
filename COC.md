@@ -44,9 +44,9 @@ However, if we become aware of behavior in another community that we believe imp
 
 During _inactive participation_, you must behave as described in this section.
 
-* **Be Civil**. Do not commit criminal offenses, and do not sabotage the _community_ or _member_'s careers.
-* **Don't Dox**. Do not disseminate any private details about others learned within the _community_ without express permission, including but not limited to real name, address, phone number, or photo identity.
-* **Don't Shame**. You must not negatively communicate about a member's behavior (which occurred inside the _community_, or which you learned about while inside the _community_) with anyone outside the _community_ without express permission of the discussed _members_, where the discussed _members_ themselves decide what is negative.
+* **Be Civil**. Obey the law, and do not sabotage the _community_ or _member_'s careers.
+* **Don't Dox**. Do not share details you learn about _members_ during _active participation_.
+* **Don't Shame**. Do not communicate externally and negatively about a _member's_ behavior inside the _community_.
 
 These requirements on behavior apply to _members_ at all times, even when they are not actively participating in the _community_.
 
@@ -60,13 +60,13 @@ These requirements on behavior apply to _members_ at all times, even when they a
 
 **No Victimless Violations**. If you believe you have been adversely affected by a _violation_ but are not _aggrieved_, you may choose to not report the _incident_. In this case, we will not treat the incident as a violation.
 
-**Reporting Process**. _Active participation_ incidents must be reported to us within 15 days by _aggrieved_ members, and may not be reported by third-parties. Inactive Participation incidents may be reported to us within 5 years of their occurrence, and by anyone, even non-_members_.
+**Reporting Process**. _Active participation_ incidents must be reported to us within 15 days by _aggrieved_ members, and may not be reported by third-parties. _Inactive participation_ incidents may be reported to us within 5 years of their occurrence, and by anyone, even non-_members_.
 
-**Unofficial Resolution**. For minor offenses and in cases where they prefer doing so, we encourage _aggrieved_ members to speak to _accused_ members, using the language of non-violent communication (NVC). If you would like to do this with the help of an independent mediator, contact us and we will arrange for one.
+**Unofficial Resolution**. For minor offenses and only in cases where they prefer doing so, we encourage _aggrieved_ members to speak to _accused_ members directly, using the language of non-violent communication (NVC). If you would like to do this with the help of an independent mediator, we will arrange for one.
 
 **Official Resolution**. If you want an official intervention, we will appoint an arbiter (consisting of one or more persons). The arbiter will speak individually to all parties, including witnesses, before deciding on a course of action, which will involve rejecting the reported violation, or accepting it and imposing a consequence on the _accused_ member.
 
-**Consequences**. _Violators_ may be warned, asked to apologize or undergo training, counseling, or mediation as a condition of continued participation, or ejected and banned from the _community_, at the sole discretion of the arbiter. In no case will the consequence for violating FCOP exceed banishment, unless the violation is also governed by a separate contractual agreement or local law.
+**Consequences**. _Violators_ may be warned, asked to apologize or undergo training, counseling, or mediation as a condition of continued participation, or ejected and banned from the _community_, at the sole discretion of the arbiter. In no case will the consequence for violating FCOP exceed banishment, unless the violation is also governed by separate contractual agreements or local laws.
 
 **Social Rehabilitation**. No one can be banished for life, only for a determined number of years, not to exceed 5 years. Formerly banned parties can be reintegrated into the _community_ through a rehabilitation process determined by us.
 
@@ -97,12 +97,14 @@ In the event there is a dispute about the meaning of any term or clause in FCOP,
  * **Community**. We define our _community_ as a group of people with a shared professional interest that exists at some location (online or geographical) and within some span of time. The boundaries of the community are dictated by us, but cannot extend in space or time to any place where we do not have the actual or legal ability to impose FCOP-prescribed consequences on _violators_.
  * **Denigration**. We define _denigration_ as the _communication_ of the idea that any physical or mental characteristic of any person is superior or inferior to any other. This explicitly excludes communication of the idea that objective, falsifiable statements espoused by someone are inconsistent or unsupported or contradicted by data.
  * **Discrimination**. We define _discrimination_ as any favoritism shown or withheld to someone either on the basis of a stereotype or a non-community related group membership.
+ * **Doxxing** We define _doxxing_ to be the unauthorized dissemination of any details about _members_ learned during _active participation_, including but not limited to real name, address, phone number, or photo identity.
  * **Harassment**. We define _harassment_ as an _interaction_ with someone who does not consent to the interaction. For interactions of a professional nature, you may assume consent for the first interaction, until the recipient communicates otherwise (examples include handshakes, looking at someone who is speaking, providing feedback). For all other interactions, you must assume non-consent until the person clearly and unambiguously communicates otherwise (examples include persistent gaze at someone who is not speaking, sexual interactions of any kind).
  * **Inactive Participation**. We define _inactive participation_ to include the behavior of members at all times and under all circumstances.
  * **Incident**. We define _incident_ as a possible infringement of the FCOP.
  * **Interaction**. We define _interaction_ as any one-on-one communication, physical contact (with person or property), close proximity, or persistent gaze. Interaction does not include opt-in, broadcast-based communication within the Community.
  * **Members**. We define a _member_ of the community to be any civil individual who we allow to actively participate in the community.
  * **Moralizing**. We define _moralizing_ as an attempt to evangelize one's moral system or values to others, whether by communicating the idea that their moral system or values are superior to others, or by intimidating people to profess or practice their moral system or values.
+ * **Shaming**. We define _shaming_ to be unauthorized, negative communication to non-_members_ about a _member_'s behavior inside the _community_, where the discussed _member_ decides what is negative.
  * **Stereotyping**. We define _stereotyping_ as _communication_ that implies one characteristic of an individual based on their perceived membership in some (unrelated or loosely related) group or category.
  * **Violation**. We define _violation_ as an actual infringement of the FCOP as determined by an official arbiter.
  * **Violator**. We define _violator_ as an _accused_ member who the arbiter has decided has broken the terms and conditions of FCOP.
