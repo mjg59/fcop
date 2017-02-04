@@ -54,7 +54,7 @@ These requirements on behavior apply to _members_ at all times, even when they a
 
 ## Violations
 
-**No Victimless Violations**. If you believe you have been adversely affected by a _violation_ but are not _aggrieved_, you may choose to not report the _incident_. In this case, we will not treat the incident as a violation.
+**No Victimless Violations**. If you are _aggrieved_, you may choose to not seek resolution for the _incident_. In this case, we will not treat the _incident_ as a _violation_.
 
 **Reporting Process**. _Active participation_ incidents must be reported to us within 15 days by _aggrieved_ _members_, and may not be reported by third-parties. _Inactive participation_ incidents may be reported to us within 5 years of their occurrence, by _members_ and non-_members_ alike.
 
