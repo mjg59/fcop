@@ -6,19 +6,15 @@ Copyright &copy; 2016 - 2017 Fantasyland Institute of Learning. All Rights Reser
 
 The Fantasyland Institute of Learning Code of Professionalism (FCOP) dictates the terms and conditions under which we allow you to participate in the _community_.
 
-The purpose of FCOP is to facilitate inclusiveness and productivity in our _community_ despite operating in a pluralistic society. To accomplish this goal, we restrict the _community_ to _civil_ people, and protect such people from _discrimination_, _stereotyping_, _harassment_, _moralizing_, _denigration_, and _breaches of privacy_.
+The purpose of FCOP is to facilitate inclusiveness and productivity in our _community_ despite operating in a pluralistic society. To accomplish this goal, we restrict the _community_ to _civil_ individuals, and protect such people from _discrimination_, _stereotyping_, _harassment_, _moralizing_, _denigration_, and _breaches of privacy_.
 
 FCOP is explicitly not intended to impose any system of politics, religion, ideologies, morals, or values onto _members_.
 
-## Short-Form
-
-We welcome all _civil_ people to participate in the _community_. We do not allow _discrimination_, _harassment_, _moralizing_, _denigration_, or _breaches of privacy_. We do not exclude any _civil_ people from our _community_ unless they have been banned by us for a _violation_ of these terms and conditions.
-
 ## Welcome Statement
 
-We welcome all _civil_ people regardless of any physical or mental characteristics orthogonal to the professional goals of the _community_, including all genders, gender-expressions, sexual-orientations, gender-orientations, races, ethnic origins, skin colors, physical disabilities, intellectual disabilities, ages, sizes, political views, religious views, philosophies, beliefs, values, attitudes, and past professions.
+We welcome all _civil_ people regardless of any physical or mental characteristics they posses that are orthogonal to the professional goals of the _community_, including all genders, gender-expressions, sexual-orientations, gender-orientations, races, ethnic origins, skin colors, physical disabilities, intellectual disabilities, ages, sizes, political views, religious views, philosophies, beliefs, values, attitudes, and historical professions.
 
-We pledge that we will not tolerate _discrimination_, _harassment_, _moralizing_, _denigration_, or _breaches of privacy_. We pledge to hold ourselves to these same standards and, in so doing, set a positive example for others to follow.
+We pledge that we will enforce the terms and conditions set forth in FCOP, and that we will hold ourselves to these same standards, thereby setting a positive example for others to follow.
 
 We greatly value integrity and pledge to establish the highest levels of trust in _members_.
 
@@ -45,7 +41,7 @@ However, if we become aware of behavior in another community that we believe imp
 During _inactive participation_, you must behave as described in this section.
 
 * **Be Civil**. Obey the law, and do not sabotage the _community_ or _member_'s careers.
-* **Don't Dox**. Do not share details you learn about _members_ during _active participation_.
+* **Don't Dox**. Do not share private details you learn about _members_ during _active participation_.
 * **Don't Shame**. Do not communicate externally and negatively about a _member's_ behavior inside the _community_.
 
 These requirements on behavior apply to _members_ at all times, even when they are not actively participating in the _community_.
