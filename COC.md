@@ -8,11 +8,13 @@ The Fantasyland Institute of Learning Code of Professionalism (FCOP) dictates th
 
 The purpose of FCOP is to facilitate inclusiveness and productivity in our _community_ despite operating in a pluralistic society. To accomplish this goal, we restrict the _community_ to _civil_ individuals, and protect such people from _discrimination_, _stereotyping_, _harassment_, _moralizing_, _denigration_, and _breaches of privacy_.
 
-FCOP is explicitly not intended to impose any system of politics, religion, ideologies, morals, or values onto _members_.
+FCOP is explicitly not intended to impose any system of politics, religion,
+ideologies, morals, or values onto _members_, but rather, to allow people who do
+not share these systems to come together and work toward professional goals.
 
 ## Welcome Statement
 
-We welcome all _civil_ people regardless of any physical or mental characteristics they posses that are orthogonal to the professional goals of the _community_, including all genders, gender-expressions, sexual-orientations, gender-orientations, races, ethnic origins, skin colors, physical disabilities, intellectual disabilities, ages, sizes, political views, religious views, philosophies, beliefs, values, attitudes, and historical professions.
+We welcome all _civil_ people regardless of any physical or mental characteristics they possess that are orthogonal to the professional goals of the _community_, including all genders, gender-expressions, sexual-orientations, gender-orientations, races, ethnic origins, skin colors, physical disabilities, intellectual disabilities, ages, sizes, political views, religious views, philosophies, beliefs, values, attitudes, and historical professions.
 
 We pledge that we will enforce the terms and conditions set forth in FCOP, and that we will hold ourselves to these same standards, thereby setting a positive example for others to follow.
 
@@ -22,7 +24,8 @@ We greatly value integrity and pledge to establish the highest levels of trust i
 
 ### Active Participation
 
-During _active participation_, you must behave as described in this section.
+During _active participation_, you must behave as required in this section,
+and as further clarified by the **Glossary**.
 
 * **Don't Stereotype**. Communicate as if every individual were unique.
 * **Don't Moralize**. Do not impose your moral system or values onto others.
@@ -38,7 +41,8 @@ However, if we become aware of behavior in another community that we believe imp
 
 ### Inactive Participation
 
-During _inactive participation_, you must behave as described in this section.
+During _inactive participation_, you must behave as required in this section,
+and as further clarified by the **Glossary**.
 
 * **Be Civil**. Obey the law, and do not sabotage the _community_ or _member_'s careers.
 * **Don't Dox**. Do not share personal details you learn about _members_ during _active participation_.
@@ -72,7 +76,7 @@ These requirements on behavior apply to _members_ at all times, even when they a
 
 In the event there is a dispute about the meaning of any term or clause in FCOP, we alone will clarify the intent.
 
-## Terms
+## Glossary
 
  * **Accused**.  We define _accused_ as a member who has been attributed a violation by an _aggrieved_ member.
  * **Active Participation**. We define _active participation_ to include the behavior of members while they are in the boundaries of the _community_.
