@@ -28,12 +28,12 @@ During _active participation_, you must behave as required in this section,
 and as further clarified by the **Glossary**.
 
 * **Don't Stereotype**. Communicate as if every individual were unique.
-* **Don't Moralize**. Do not impose your moral system or values onto others.
+* **Don't Moralize**. Do not impose your moral system onto others.
 * **Don't Denigrate**. Do not denigrate people's physical or mental characteristics.
 * **Don't Harass**. Do not interact with anyone who does not consent.
 * **Don't Pry**. Do not eavesdrop on private communications of other members.
 
-We expect everyone to assume the best in every interaction; to be open, honest, and empathic in all communication; and to demonstrate politeness and professional courtesy in every situation.
+We encourage everyone to assume the best in every interaction; to be open, honest, and empathic in all communication; and to demonstrate politeness and professional courtesy in every situation.
 
 These requirements on behavior apply to _members_ only while they are actively participating in the _community_. The standing of _members_ is unaffected by behavior that does not comply with these requirements if this behavior occurs in other communities.
 
@@ -52,7 +52,7 @@ These requirements on behavior apply to _members_ at all times, even when they a
 
 ## Privacy
 
-**Semi-Private Communication**. During _active participation_, you may take phone calls, direct messages, emails, and other semi-private forms of communication. Although private communication with people outside of the community is not bound by FCOP, we expect all communication that can be seen or overheard by other members will comply with the requirements of FCOP.
+**Semi-Private Communication**. During _active participation_, you may take phone calls, direct messages, emails, and other semi-private forms of communication. Although private communication with people outside of the community is not bound by FCOP, we expect all communication that can be discerned by other members will comply with the requirements of FCOP.
 
 **Private Consumption**. During _active participation_, you may consume material on your own personal devices and from your own channels of communication, and this material does not have to conform to FCOP, assuming the material is not easily discernible to others.
 
@@ -64,17 +64,17 @@ These requirements on behavior apply to _members_ at all times, even when they a
 
 **Unofficial Resolution**. For minor offenses, and only in cases where they prefer doing so, we encourage _aggrieved_ members to speak to _accused_ members directly, using the language of non-violent communication (NVC). If you would like to do this with the help of an independent mediator, we will arrange for one.
 
-**Official Resolution**. If you want an official intervention, we will appoint an arbiter (consisting of one or more persons). The arbiter will speak individually to all parties, including witnesses, before deciding on a course of action, which will involve rejecting the reported violation, or accepting it and imposing a consequence on the _accused_ member.
+**Official Resolution**. If you want an official intervention, we will appoint an arbiter (consisting of one or more persons). The arbiter will speak individually to all parties, including witnesses, before deciding on a course of action, which will involve rejecting the _incident_, or accepting it as a _violation_ and imposing a consequence on the _violator_.
 
-**Consequences**. _Violators_ may be asked to apologize or undergo training, counseling, or mediation as a condition of continued participation. They may also be ejected and banned from the _community_, at the sole discretion of the arbiter. In no case will the consequence for violating FCOP exceed banishment, unless the violation is also governed by separate contractual agreements or local laws.
+**Consequences**. _Violators_ may be asked to apologize or to undergo training, counseling, or mediation as a condition of continued participation. They may also be ejected and banned from the _community_, at the sole discretion of the arbiter. In no case will the consequence for violating FCOP exceed banishment, unless the violation is also governed by separate contractual agreements or local laws.
 
-**Social Rehabilitation**. No one can be banished for life, only for a determined number of years, not to exceed 5 years. Formerly banned parties can be reintegrated into the _community_ through a rehabilitation process determined by us.
+**Social Rehabilitation**. We will only banish individuals for a determined number of years, not to exceed 5 years. Formerly banned parties can be reintegrated into the _community_ through a rehabilitation process determined by us.
 
-**Confidentiality**. Reporting an incident is a confidential process. We will not publish information on any reported incident or the parties involved in the incident. Note that criminal offenses of any kind will not be kept confidential.
+**Confidentiality**. For all _members_, we will keep reported _incidents_ and _violations_ confidential. Note that criminal offenses will not be kept confidential.
 
 ## Disputes
 
-In the event there is a dispute about the meaning of any term or clause in FCOP, we alone will clarify the intent.
+In the event there is a dispute about the meaning of any term or clause in FCOP, we alone will clarify the intent. We pledge to be consistent in our interpretation of any ambiguity, rather than utilizing different interpretations in different circumstances.
 
 ## Glossary
 
@@ -103,7 +103,7 @@ In the event there is a dispute about the meaning of any term or clause in FCOP,
  * **Incident**. We define _incident_ as a possible infringement of the FCOP.
  * **Interaction**. We define _interaction_ as any one-on-one communication, physical contact (with person or property), close proximity, or persistent gaze. Interaction does not include opt-in, broadcast-based communication within the Community.
  * **Members**. We define a _member_ of the community to be any civil individual who we allow to actively participate in the community.
- * **Moralizing**. We define _moralizing_ as an attempt to evangelize one's moral system or values to others, whether by communicating the idea that their moral system or values are superior to others, or by intimidating people to profess or practice their moral system or values.
+ * **Moralizing**. We define _moralizing_ as an attempt to evangelize one's moral system to others, whether by communicating the idea that their moral system is superior, by denigrating the moral system of others, or by pressuring others to profess or practice their moral system.
  * **Shaming**. We define _shaming_ to be unauthorized, _negative_ communication to non-_members_ about a _member_'s behavior inside the _community_, where _negative_ is defined by the _member_ on a case-by-case basis.
  * **Stereotyping**. We define _stereotyping_ as _communication_ that implies one characteristic of an individual based on their perceived membership in some (unrelated or loosely related) group or category.
  * **Violation**. We define _violation_ as an actual infringement of the FCOP as determined by an official arbiter.
