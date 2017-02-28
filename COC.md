@@ -69,7 +69,7 @@ These requirements on behavior apply to _members_ at all times, even when they a
 
 **Social Rehabilitation**. We will only banish individuals for a determined number of years, not to exceed 5 years. Formerly banned parties can be reintegrated into the _community_ through a rehabilitation process determined by us.
 
-**Confidentiality**. For all _members_, we will keep reported _incidents_ and _violations_ confidential. Note that criminal offenses will not be kept confidential.
+**Confidentiality**. We will publicly share information about any _violation_ that results in banishment, including personally identifiable information on the violator, limited to name and online identities. We will keep other _incidents_ and the identities of _aggrieved_ and _accused_ confidential to the extent this confidentiality is respected by other parties.
 
 ## Disputes
 
