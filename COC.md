@@ -22,6 +22,8 @@ We greatly value integrity and pledge to establish the highest levels of trust i
 
 ## Behavior
 
+We only allow _civil_ individuals to participate in our community. Beyond civility, we place requirements on behavior during _active participation_ and _inactive participation_.
+
 ### Active Participation
 
 During _active participation_, you must behave as required in this section,
@@ -44,9 +46,8 @@ However, if we become aware of behavior in another community that we believe imp
 During _inactive participation_, you must behave as required in this section,
 and as further clarified by the **Glossary**.
 
-* **Be Civil**. Obey the law, and do not sabotage the _community_ or _member_'s careers.
 * **Don't Dox**. Do not share personal details you learn about _members_ during _active participation_.
-* **Don't Shame**. Do not publicly shame an identified _member_'s _active participation_ behavior.
+* **Don't Shame**. Do not publicly shame an identified _member_ for behavior that occurred during _active participation_.
 
 These requirements on behavior apply to _members_ at all times, even when they are not actively participating in the _community_.
 
@@ -60,7 +61,7 @@ These requirements on behavior apply to _members_ at all times, even when they a
 
 **No Victimless Violations**. If you are _aggrieved_, you may choose to not seek resolution for the _incident_. In this case, we will not treat the _incident_ as a _violation_.
 
-**Reporting Process**. _Active participation_ incidents must be reported to us within 15 days by _aggrieved_ _members_, and may not be reported by third-parties. _Inactive participation_ incidents may be reported to us within 5 years of their occurrence, by _members_ and non-_members_ alike.
+**Reporting Process**. _Active participation_ incidents must be reported to us within 15 days by _aggrieved_ _members_, and may not be reported by third-parties. _Inactive participation_ incidents may be reported to us within 5 years of their occurrence, by _members_ and non-_members_ alike. Information that any _member_ or non-_member_ believes may affect our view of the _civility_ of individuals may be reported at any time.
 
 **Unofficial Resolution**. For minor offenses, and only in cases where they prefer doing so, we encourage _aggrieved_ members to speak to _accused_ members directly, using the language of non-violent communication (NVC). If you would like to do this with the help of an independent mediator, we will arrange for one.
 
