@@ -59,13 +59,13 @@ These requirements on behavior apply to _members_ at all times, even when they a
 
 ## Violations
 
-**Reporting Process**. _Active participation_ incidents must be reported to us within 15 days by _aggrieved_ _members_, and may not be reported by third-parties. _Inactive participation_ incidents may be reported to us within 5 years of their occurrence, by _members_ and non-_members_ alike. Information that any _member_ or non-_member_ believes may affect our view of the _civility_ of individuals may be reported at any time.
+**Reporting Requirements**. _Active participation_ _incidents_ must be reported to us within 15 days by _aggrieved_ _members_. We will investigate third-party reports of such _incidents_ at our sole discretion. _Inactive participation_ _incidents_ may be reported to us within 5 years of their occurrence, by _members_ and non-_members_ alike. Information that any _member_ or non-_member_ believes may affect our view of the _civility_ of individuals may be reported at any time.
 
 **Unofficial Resolution**. For minor offenses, and only in cases where they prefer doing so, we encourage _aggrieved_ members to speak to _accused_ members directly, using the language of non-violent communication (NVC). If you would like to do this with the help of an independent mediator, we will arrange for one.
 
 **Official Resolution**. If you want an official intervention, we will appoint an arbiter (consisting of one or more persons). The arbiter will speak individually to all parties, including witnesses, before deciding on a course of action, which will involve rejecting the _incident_, or accepting it as a _violation_ and imposing a consequence on the _violator_.
 
-**Consequences**. _Violators_ may be asked to apologize or to undergo training, counseling, or mediation as a condition of continued participation. They may also be ejected and banned from the _community_, at the sole discretion of the arbiter. In no case will the consequence for violating FCOP exceed banishment, unless the violation is also governed by separate contractual agreements or local laws.
+**Consequences**. _Violators_ may be asked to apologize or to undergo training, counseling, or mediation as a condition of continued participation. They may also be ejected and banned from the _community_, at the sole discretion of the arbiter. In no case will the consequence for violating FCOP exceed banishment, unless the violation is also governed by separate contractual agreements or local laws. We reserve the right to re-evaluate a previously imposed *consequence* based on new information or a change in community leadership.
 
 **Social Rehabilitation**. We will only banish individuals for a determined number of years, not to exceed 5 years. Formerly banned parties can be reintegrated into the _community_ through a rehabilitation process determined by us.
 
