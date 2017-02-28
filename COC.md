@@ -51,11 +51,13 @@ and as further clarified by the **Glossary**.
 
 These requirements on behavior apply to _members_ at all times, even when they are not actively participating in the _community_.
 
-## Privacy
+## Member Rights
 
-**Semi-Private Communication**. During _active participation_, you may take phone calls, direct messages, emails, and other semi-private forms of communication. Although private communication with people outside of the community is not bound by FCOP, we expect all communication that can be discerned by other members will comply with the requirements of FCOP.
+**Right to Semi-Private Communication**. During _active participation_, you may take phone calls, direct messages, emails, and other semi-private forms of communication. Although private communication with people outside of the community is not bound by FCOP, we expect all communication that can be discerned by other members will comply with the requirements of FCOP.
 
-**Private Consumption**. During _active participation_, you may consume material on your own personal devices and from your own channels of communication, and this material does not have to conform to FCOP, assuming the material is not easily discernible to others.
+**Right to Private Consumption**. During _active participation_, you may consume material on your own personal devices and from your own channels of communication, and this material does not have to conform to FCOP, assuming the material is not easily discernible to others.
+
+**Right to Non-Coercion**. _Members_ may not be coerced to share private information, make statements, or otherwise perform any function which is not essential for the scope of participating in a given _community_ activity.
 
 ## Violations
 
