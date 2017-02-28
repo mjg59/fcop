@@ -26,16 +26,15 @@ We only allow _civil_ individuals to participate in our community. Beyond civili
 
 ### Active Participation
 
-During _active participation_, you must behave as required in this section,
-and as further clarified by the **Glossary**.
+We encourage everyone to assume the best in every interaction; to be open, honest, and empathic in all communication; and to demonstrate politeness and professional courtesy in every situation.
+
+We welcome any closed group of _members_ to engage in any behaviors for which there is explicit and unanimous mutual consent. In the absence of such consent, we impose the following restrictions during _active participation_, which are further clarified by the **Glossary**.
 
 * **Don't Stereotype**. Communicate as if every individual were unique.
 * **Don't Moralize**. Do not impose your moral system onto others.
 * **Don't Denigrate**. Do not denigrate people's physical or mental characteristics.
 * **Don't Harass**. Do not interact with anyone who does not consent.
 * **Don't Pry**. Do not eavesdrop on private communications of other members.
-
-We encourage everyone to assume the best in every interaction; to be open, honest, and empathic in all communication; and to demonstrate politeness and professional courtesy in every situation.
 
 These requirements on behavior apply to _members_ only while they are actively participating in the _community_. The standing of _members_ is unaffected by behavior that does not comply with these requirements if this behavior occurs in other communities.
 
@@ -58,8 +57,6 @@ These requirements on behavior apply to _members_ at all times, even when they a
 **Private Consumption**. During _active participation_, you may consume material on your own personal devices and from your own channels of communication, and this material does not have to conform to FCOP, assuming the material is not easily discernible to others.
 
 ## Violations
-
-**No Victimless Violations**. If you are _aggrieved_, you may choose to not seek resolution for the _incident_. In this case, we will not treat the _incident_ as a _violation_.
 
 **Reporting Process**. _Active participation_ incidents must be reported to us within 15 days by _aggrieved_ _members_, and may not be reported by third-parties. _Inactive participation_ incidents may be reported to us within 5 years of their occurrence, by _members_ and non-_members_ alike. Information that any _member_ or non-_member_ believes may affect our view of the _civility_ of individuals may be reported at any time.
 
