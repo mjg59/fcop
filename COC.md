@@ -46,7 +46,8 @@ During _inactive participation_, you must behave as required in this section,
 and as further clarified by the **Glossary**.
 
 * **Don't Dox**. Do not share personal details you learn about _members_ during _active participation_.
-* **Don't Shame**. Do not publicly shame an identified _member_ for behavior that occurred during _active participation_.
+* **Don't Shame**. Do not _shame_ an identified _member_ for behavior that occurred during _active participation_.
+* **Don't Retaliate**. Do not _retaliate_ against _aggrieved_ _members_ for reporting an _incident_.
 
 These requirements on behavior apply to _members_ at all times, even when they are not actively participating in the _community_.
 
@@ -102,6 +103,7 @@ In the event there is a dispute about the meaning of any term or clause in FCOP,
  * **Interaction**. We define _interaction_ as any one-on-one communication, physical contact (with person or property), close proximity, or persistent gaze. Interaction does not include opt-in, broadcast-based communication within the Community.
  * **Members**. We define a _member_ of the community to be any civil individual who we allow to actively participate in the community.
  * **Moralizing**. We define _moralizing_ as an attempt to evangelize one's moral system to others, whether by communicating the idea that their moral system is superior, by denigrating the moral system of others, or by pressuring others to profess or practice their moral system.
+ * **Retaliation**. We define _retaliation_ as the imposition of any _negative consequence_ on a _member_ for their reporting of an _incident_, where _negative consequence_ is defined as any consequence that has a negative effect on the _member_'s professional or social standing.
  * **Shaming**. We define _shaming_ to be unauthorized, _negative_ communication to non-_members_ about a _member_'s (non-public) behavior inside the _community_, in such a way that the identity of the _member_ can be discerned, where _negative_ is defined by the identified _member_ on a case-by-case basis.
  * **Stereotyping**. We define _stereotyping_ as _communication_ that implies one characteristic of an individual based on their perceived membership in some (unrelated or loosely related) group or category.
  * **Violation**. We define _violation_ as an actual infringement of the FCOP as determined by an official arbiter.
