@@ -28,11 +28,11 @@ We encourage everyone to assume the best in every interaction; to be open, hones
 
 We welcome any closed group of _members_ to engage in any behaviors for which there is explicit and unanimous mutual consent. In the absence of such consent, we impose the following restrictions during _active participation_, which are further clarified by the **Glossary**.
 
-* **Don't Stereotype**. Communicate as if every individual were unique.
-* **Don't Moralize**. Do not impose your moral system onto others.
-* **Don't Denigrate**. Do not denigrate people's physical or mental characteristics.
-* **Don't Harass**. Do not interact with anyone who does not consent.
-* **Don't Pry**. Do not eavesdrop on private communications of other members.
+* **Don't Stereotype**. Communicate as if every person were unique.
+* **Don't Moralize**. Do not impose your moral system onto other others.
+* **Don't Denigrate**. Do not denigrate other's physical or mental characteristics.
+* **Don't Harass**. Do not interact with anyone who does not consent to the interaction.
+* **Don't Pry**. Do not eavesdrop on the private communications of others.
 
 These requirements on behavior apply to _members_ only while they are actively participating in the _community_. The standing of _members_ is unaffected by behavior that does not comply with these requirements if this behavior occurs in other communities.
 
@@ -43,7 +43,6 @@ However, if we become aware of behavior in another community that we believe imp
 During _inactive participation_, you must behave as required in this section, and as further clarified by the **Glossary**.
 
 * **Don't Dox**. Do not share personal details you learn about _members_ during _active participation_.
-* **Don't Shame**. Do not _shame_ an identified _member_ for behavior that occurred during _active participation_.
 * **Don't Retaliate**. Do not _retaliate_ against _aggrieved_ _members_ for reporting an _incident_.
 
 These requirements on behavior apply to _members_ at all times, even when they are not actively participating in the _community_.
@@ -97,13 +96,13 @@ These requirements on behavior apply to _members_ at all times, even when they a
     * **Stereotyping**. Someone has _stereotyped_ them or a group they belong to.
  * **Arbiter**. We define _arbiter_ as one or more persons designated by us to resolve complaint of an _incident_.
  * **Behavior**. We define _behavior_ to include all and only observable actions of people, and to explicitly exclude any private thoughts, beliefs, ideas, attitudes, morals, and emotions.
- * **Civil**. We define civil individuals as individuals who, in our sole estimation, do not and will not engage in the following behaviors during _active participation_ or _inactive participation_: criminal offenses, _community sabotage_, or _professional sabotage_.
+ * **Civil**. We define civil individuals as individuals who, in our sole estimation, do not and will not engage in the following behaviors during _active participation_ or _inactive participation_: illegal behavior, _community sabotage_, or _professional sabotage_.
  * **Communication**. We define _communication_ as any transmission of information between people, including but not limited to verbal, written, electronic, pictorial, gestural, and tactile.
  * **Community**. We define the _community_ as a group of people with a shared professional interest that exists at some location (online or geographical) and within some span of time. The boundaries of the community are dictated by us, but cannot extend in space or time to any place where we do not have the actual or legal ability to impose FCOP-prescribed consequences on _violators_.
  * **Community Sabotage**. We define _community sabotage_ to be any behavior that does have or is intended to have the effect of harming the professional goals of the _community_, including but not limited to attempting to defund or blackball the _community_, attempting to disrupt or diminish the activities of the _community_, and authoring, spreading, or endorsing libel or slander about the _community_.
  * **Denigration**. We define _denigration_ as the _communication_ of the idea that any physical or mental characteristic of any person is superior or inferior to any other. This explicitly excludes communication of the idea that objective, falsifiable statements espoused by someone are inconsistent or unsupported or contradicted by data.
  * **Discrimination**. We define _discrimination_ as any favoritism shown or withheld to someone either on the basis of a stereotype or a non-community related group membership.
- * **Doxxing** We define _doxxing_ to be the unauthorized dissemination of any personal details about _members_ learned during _active participation_ and not easily accessible to the public, including but not limited to real name, address, phone number, email address, or photo identity.
+ * **Doxxing** We define _doxxing_ to be the unauthorized dissemination of any personal details about _members_ learned during _active participation_ and not easily publicly accessible, including but not limited to real name, address, phone number, email address, photo identity, sexual-orientation, gender-orientation, political or religious affiliation, and so on.
  * **Harassment**. We define _harassment_ as an _interaction_ with someone who does not consent to the interaction. For interactions of a professional nature, you may assume consent for the first interaction, until the recipient communicates otherwise (examples include handshakes, looking at someone who is speaking, providing feedback). For all other interactions, you must assume non-consent until the person clearly and unambiguously communicates otherwise (examples include persistent gaze at someone who is not speaking, sexual interactions of any kind).
  * **Inactive Participation**. We define _inactive participation_ to include the behavior of members at all times and under all circumstances.
  * **Incident**. We define _incident_ as a possible infringement of the FCOP.
@@ -111,9 +110,8 @@ These requirements on behavior apply to _members_ at all times, even when they a
  * **Members**. We define a _member_ of the community to be any civil individual who we allow to actively participate in the community.
  * **Moralizing**. We define _moralizing_ as an attempt to evangelize one's moral system to others, whether by communicating the idea that their moral system is superior, by denigrating the moral system of others, or by pressuring others to profess or practice their moral system.
  * **Professional Sabotage**. We define _professional sabotage_ to be any behavior that does have or is intended to have the effect of harming a _member_'s career for any reason that is unrelated to the _member_'s performance in their professional duties, including but not limited to attempting to no-platform, blackball, or fire a _member_ because of physical or mental characteristics orthogonal to the performance of their professional duties; or encouraging others to engage in such behavior.
- * **Retaliation**. We define _retaliation_ as the imposition of any _negative consequence_ on a _member_ for their reporting of an _incident_, where _negative consequence_ is defined as any consequence that has a negative effect on the _member_'s professional or social standing.
- * **Shaming**. We define _shaming_ to be unauthorized, _negative_ communication to non-_members_ about a _member_'s (non-public) behavior inside the _community_, in such a way that the identity of the _member_ can be discerned, where _negative_ is defined by the identified _member_ on a case-by-case basis. Private communication to non-_member_'s is exempted from this restriction, so long as the communication is kept confidential by the non-_member_'s.
- * **Stereotyping**. We define _stereotyping_ as _communication_ that implies one characteristic of an individual based on their perceived membership in some (unrelated or loosely related) group or category.
+ * **Retaliation**. We define _retaliation_ as the imposition of any _negative consequence_ on a _member_ for their reporting of an _incident_, where _negative consequence_ is defined as any consequence that does or is intended to harm the _member_'s career.
+  * **Stereotyping**. We define _stereotyping_ as _communication_ that implies one characteristic of an individual based on their perceived membership in some (unrelated or loosely related) group or category.
  * **Violation**. We define _violation_ as an actual infringement of the FCOP as determined by an _arbiter_.
  * **Violator**. We define _violator_ as an _accused_ member who has broken the terms and conditions of FCOP, as determined by an _arbiter_.
  * **We**. We define _we_ to be those who have the actual or legal ability to impose FCOP-prescribed consequences on _violators_ within the physical or virtual boundaries of the _community_.
