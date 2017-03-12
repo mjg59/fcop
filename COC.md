@@ -53,9 +53,11 @@ These requirements on behavior apply to _members_ at all times, even when they a
 
 ## Member Rights
 
-**Right to Semi-Private Communication**. During _active participation_, you may take phone calls, direct messages, emails, and other semi-private forms of communication. Although private communication with people outside of the community is not bound by FCOP, we expect all communication that can be discerned by other members will comply with the requirements of FCOP.
+**Right to Contact**. _Members_ have a right to clear, up-to-date contact information for use in reporting _incidents_. _Members_ have a right to accurate estimation on how quickly _members_ will receive a response after an _incident_ is reported. We pledge to make reasonable efforts to make contact information and estimation accessible regardless of physical or intellectual disability.
 
-**Right to Private Consumption**. During _active participation_, you may consume material on your own personal devices and from your own channels of communication, and this material does not have to conform to FCOP, assuming the material is not easily discernible to others.
+**Right to Semi-Private Communication**. During _active participation_, _members_ have a right to take phone calls, direct messages, emails, and other semi-private forms of communication. Although private communication with people outside of the community is not bound by FCOP, all communication that can be discerned by other members must comply with the requirements of FCOP.
+
+**Right to Private Consumption**. During _active participation_, _members_ may consume material on their own personal devices and from their own private channels of communication, and this material does not have to conform to FCOP, assuming the material is not easily discernible to others.
 
 **Right to Non-Coercion**. _Members_ may not be coerced to share private information, make statements, or otherwise perform any function which is not essential for the scope of participating in a given _community_ activity.
 
@@ -73,9 +75,11 @@ These requirements on behavior apply to _members_ at all times, even when they a
 
 **Confidentiality**. We will publicly share information about any _violation_ that results in banishment, including personally identifiable information on the violator, limited to name and online identities. We will keep other _incidents_ and the identities of _aggrieved_ and _accused_ confidential to the extent this confidentiality is respected by other parties.
 
-## Disputes
+## Miscellaneous
 
-In the event there is a dispute about the meaning of any term or clause in FCOP, we alone will clarify the intent. We pledge to be consistent in our interpretation of any ambiguity, rather than utilizing different interpretations in different circumstances.
+**Illegal Behavior**. FCOP is not intended to supplant laws and regulations of applicable jurisdictions, but rather, to impose a set of terms and conditions on membership in a community that goes above and beyond legal requirements. Illegal behavior of any kind is not covered by FCOP and should be reported to relevant authorities.
+
+**Disputes**. In the event there is a dispute about the meaning of any term or clause in FCOP, we alone will clarify the intent. We pledge to be consistent in our interpretation of any ambiguity, rather than utilizing different interpretations in different circumstances.
 
 ## Glossary
 
