@@ -32,4 +32,4 @@ Community leaders must believe that every participant does not and will not enga
 
 ### 6. What happens if someone is assaulted inside a community?
 
-FCOP does not overlap with or supercede local jurisdiction. If anyone breaks any federal or state law you should immediately report them to the appropriate legal authorities. Community leaders can assist in the reporting process, but FCOP itself is only intended to cover and apply to legal behavior.
+FCOP does not overlap with or supersede local jurisdiction. If anyone breaks any law you should immediately report them to the appropriate legal authorities. Community leaders can assist in the reporting process, but FCOP itself is only intended to cover and apply to legal behavior.
