@@ -20,7 +20,7 @@ We greatly value integrity and pledge to establish the highest levels of trust i
 
 ## Behavior
 
-We only allow _civil_ individuals to participate in our community. Beyond civility, we place additional requirements on behavior during _active participation_ and _inactive participation_.
+We only allow _civil_ individuals to participate in the _community_. Beyond civility, we place additional requirements on behavior during _active participation_ and _inactive participation_.
 
 ### Active Participation
 
@@ -48,18 +48,6 @@ During _inactive participation_, you must behave as required in this section, an
 
 These requirements on behavior apply to _members_ at all times, even when they are not actively participating in the _community_.
 
-## Member Rights
-
-**Right to Contact Leaders**. _Members_ have a right to clear, up-to-date contact information for use in reporting _incidents_. _Members_ have a right to accurate estimation of how quickly _members_ will receive a response after an _incident_ is reported. We pledge to make reasonable efforts to make contact information accessible to all _members_ regardless of physical or intellectual disability.
-
-**Right to Know Boundaries**. _Members_ have a right to clear communication on the boundaries of the _community_. In addition, if any regions in time or space are specially exempted from part or all of FCOP, _members_ have a right to clear communication on these exemptions.
-
-**Right to Semi-Private Communication**. During _active participation_, _members_ have a right to take phone calls, direct messages, emails, and other semi-private forms of communication. Although private communication with people outside of the community is not bound by FCOP, all communication that can be discerned by other members must comply with the requirements of FCOP.
-
-**Right to Private Consumption**. During _active participation_, _members_ may consume material on their own personal devices and from their own private channels of communication, and this material does not have to conform to FCOP, assuming the material is not easily discernible to others.
-
-**Right to Non-Coercion**. _Members_ may not be coerced to share private information, make statements, or otherwise perform any function which is not essential for the scope of participating in a given _community_ activity.
-
 ## Violations
 
 **Reporting Requirements**. _Active participation_ _incidents_ must be reported to us within 15 days by _aggrieved_ _members_. We will investigate third-party reports of such _incidents_ at our sole discretion. _Inactive participation_ _incidents_ may be reported to us within 5 years of their occurrence, by _members_ and non-_members_ alike. Information that any _member_ or non-_member_ believes may affect our view of the _civility_ of individuals may be reported at any time.
@@ -74,7 +62,23 @@ These requirements on behavior apply to _members_ at all times, even when they a
 
 **Confidentiality**. We will publicly share information about any _violation_ that results in banishment, including personally identifiable information on the violator, limited to name and online identities. We will keep other _incidents_ and the identities of _aggrieved_ and _accused_ confidential to the extent this confidentiality is respected by other parties.
 
-## Miscellaneous
+## Member Rights
+
+**Right to Contact Leaders**. _Members_ have a right to clear, up-to-date contact information for use in reporting _incidents_. _Members_ have a right to accurate estimation of how quickly _members_ will receive a response after an _incident_ is reported. We pledge to make reasonable efforts to make contact information accessible to all _members_ regardless of physical or intellectual disability.
+
+**Right to Know Boundaries**. _Members_ have a right to clear communication on the boundaries of the _community_. In addition, if any regions in time or space are specially exempted from part or all of FCOP, _members_ have a right to clear communication on these exemptions.
+
+**Right to Semi-Private Communication**. During _active participation_, _members_ have a right to take phone calls, direct messages, emails, and other semi-private forms of communication. Although private communication with people outside of the community is not bound by FCOP, all communication that can be discerned by other members must comply with the requirements of FCOP.
+
+**Right to Private Consumption**. During _active participation_, _members_ may consume material on their own personal devices and from their own private channels of communication, and this material does not have to conform to FCOP, assuming the material is not easily discernible to others.
+
+**Right to Non-Coercion**. _Members_ may not be coerced to share private information, make statements, or otherwise perform any function which is not essential for the scope of participating in a given _community_ activity.
+
+## Non-Member Rights
+
+**Right to Disclosure**. Non-_members_ who are prevented from participating in the _community_ on grounds of _incivility_ have a right to a full written disclosure of the rational resulting in the verdict. Further, such non-_members_ have the right to publicly share this disclosure.
+
+## Expectations
 
 **Illegal Behavior**. FCOP is not intended to supplant laws and regulations of applicable jurisdictions, but rather, to impose a set of terms and conditions on membership in a community that goes above and beyond legal requirements. Illegal behavior of any kind should be immediately reported to relevant authorities and dealt with as recommended by such authorities. Notwithstanding the foregoing, if illegal behavior violates terms and conditions of FCOP, we reserve the right to subject such behavior to arbitration.
 
@@ -95,7 +99,7 @@ These requirements on behavior apply to _members_ at all times, even when they a
  * **Behavior**. We define _behavior_ to include all and only observable actions of people, and to explicitly exclude any private thoughts, beliefs, ideas, attitudes, morals, and emotions.
  * **Civil**. We define civil individuals as individuals who, in our sole estimation, do not and will not engage in the following behaviors during _active participation_ or _inactive participation_: criminal offenses, _community sabotage_, or _professional sabotage_.
  * **Communication**. We define _communication_ as any transmission of information between people, including but not limited to verbal, written, electronic, pictorial, gestural, and tactile.
- * **Community**. We define our _community_ as a group of people with a shared professional interest that exists at some location (online or geographical) and within some span of time. The boundaries of the community are dictated by us, but cannot extend in space or time to any place where we do not have the actual or legal ability to impose FCOP-prescribed consequences on _violators_.
+ * **Community**. We define the _community_ as a group of people with a shared professional interest that exists at some location (online or geographical) and within some span of time. The boundaries of the community are dictated by us, but cannot extend in space or time to any place where we do not have the actual or legal ability to impose FCOP-prescribed consequences on _violators_.
  * **Community Sabotage**. We define _community sabotage_ to be any behavior that does have or is intended to have the effect of harming the professional goals of the _community_, including but not limited to attempting to defund or blackball the _community_, attempting to disrupt or diminish the activities of the _community_, and authoring, spreading, or endorsing libel or slander about the _community_.
  * **Denigration**. We define _denigration_ as the _communication_ of the idea that any physical or mental characteristic of any person is superior or inferior to any other. This explicitly excludes communication of the idea that objective, falsifiable statements espoused by someone are inconsistent or unsupported or contradicted by data.
  * **Discrimination**. We define _discrimination_ as any favoritism shown or withheld to someone either on the basis of a stereotype or a non-community related group membership.
