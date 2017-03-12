@@ -73,9 +73,11 @@ These requirements on behavior apply to _members_ at all times, even when they a
 
 **Confidentiality**. We will publicly share information about any _violation_ that results in banishment, including personally identifiable information on the violator, limited to name and online identities. We will keep other _incidents_ and the identities of _aggrieved_ and _accused_ confidential to the extent this confidentiality is respected by other parties.
 
-## Disputes
+## Miscellaneous
 
-In the event there is a dispute about the meaning of any term or clause in FCOP, we alone will clarify the intent. We pledge to be consistent in our interpretation of any ambiguity, rather than utilizing different interpretations in different circumstances.
+**Illegal Behavior**. FCOP is not intended to supplant laws and regulations of applicable jurisdictions, but rather, to impose a set of terms and conditions on membership in a community that goes above and beyond legal requirements. Illegal behavior of any kind is not covered by FCOP and should be reported to relevant authorities.
+
+**Disputes**. In the event there is a dispute about the meaning of any term or clause in FCOP, we alone will clarify the intent. We pledge to be consistent in our interpretation of any ambiguity, rather than utilizing different interpretations in different circumstances.
 
 ## Glossary
 
