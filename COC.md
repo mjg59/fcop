@@ -6,11 +6,9 @@ Copyright &copy; 2016 - 2017 Fantasyland Institute of Learning. All Rights Reser
 
 The Fantasyland Institute of Learning Code of Professionalism (FCOP) dictates the terms and conditions under which we allow you to participate in the _community_.
 
-The purpose of FCOP is to facilitate inclusiveness and productivity in our _community_ despite operating in a pluralistic society. To accomplish this goal, we restrict the _community_ to _civil_ individuals, and protect such people from _discrimination_, _stereotyping_, _harassment_, _moralizing_, _denigration_, and _breaches of privacy_.
+The purpose of FCOP is to facilitate an inclusive, productive _community_ in the presence of pluralism. To accomplish this goal, we restrict the _community_ to _civil_ individuals, and protect such people from _discrimination_, _stereotyping_, _harassment_, _moralizing_, _denigration_, and breaches of privacy.
 
-FCOP is explicitly not intended to impose any system of politics, religion,
-ideologies, morals, or values onto _members_, but rather, to allow people who do
-not share these systems to come together and work toward professional goals.
+FCOP is explicitly not intended to impose any system of politics, religion, ideologies, morals, or values onto _members_, but rather, to allow people who do not share these systems to come together and work toward professional goals.
 
 ## Welcome Statement
 
@@ -22,7 +20,7 @@ We greatly value integrity and pledge to establish the highest levels of trust i
 
 ## Behavior
 
-We only allow _civil_ individuals to participate in our community. Beyond civility, we place requirements on behavior during _active participation_ and _inactive participation_.
+We only allow _civil_ individuals to participate in our community. Beyond civility, we place additional requirements on behavior during _active participation_ and _inactive participation_.
 
 ### Active Participation
 
@@ -42,8 +40,7 @@ However, if we become aware of behavior in another community that we believe imp
 
 ### Inactive Participation
 
-During _inactive participation_, you must behave as required in this section,
-and as further clarified by the **Glossary**.
+During _inactive participation_, you must behave as required in this section, and as further clarified by the **Glossary**.
 
 * **Don't Dox**. Do not share personal details you learn about _members_ during _active participation_.
 * **Don't Shame**. Do not _shame_ an identified _member_ for behavior that occurred during _active participation_.
@@ -53,7 +50,9 @@ These requirements on behavior apply to _members_ at all times, even when they a
 
 ## Member Rights
 
-**Right to Contact**. _Members_ have a right to clear, up-to-date contact information for use in reporting _incidents_. _Members_ have a right to accurate estimation on how quickly _members_ will receive a response after an _incident_ is reported. We pledge to make reasonable efforts to make contact information and estimation accessible regardless of physical or intellectual disability.
+**Right to Contact Leaders**. _Members_ have a right to clear, up-to-date contact information for use in reporting _incidents_. _Members_ have a right to accurate estimation of how quickly _members_ will receive a response after an _incident_ is reported. We pledge to make reasonable efforts to make contact information accessible to all _members_ regardless of physical or intellectual disability.
+
+**Right to Know Boundaries**. _Members_ have a right to clear communication on the boundaries of the _community_. In addition, if any regions in time or space are specially exempted from part or all of FCOP, _members_ have a right to clear communication on these exemptions.
 
 **Right to Semi-Private Communication**. During _active participation_, _members_ have a right to take phone calls, direct messages, emails, and other semi-private forms of communication. Although private communication with people outside of the community is not bound by FCOP, all communication that can be discerned by other members must comply with the requirements of FCOP.
 
@@ -77,7 +76,7 @@ These requirements on behavior apply to _members_ at all times, even when they a
 
 ## Miscellaneous
 
-**Illegal Behavior**. FCOP is not intended to supplant laws and regulations of applicable jurisdictions, but rather, to impose a set of terms and conditions on membership in a community that goes above and beyond legal requirements. Illegal behavior of any kind is not covered by FCOP and should be reported to relevant authorities.
+**Illegal Behavior**. FCOP is not intended to supplant laws and regulations of applicable jurisdictions, but rather, to impose a set of terms and conditions on membership in a community that goes above and beyond legal requirements. Illegal behavior of any kind should be immediately reported to relevant authorities and dealt with as recommended by such authorities. Notwithstanding the foregoing, if illegal behavior violates terms and conditions of FCOP, we reserve the right to subject such behavior to arbitration.
 
 **Disputes**. In the event there is a dispute about the meaning of any term or clause in FCOP, we alone will clarify the intent. We pledge to be consistent in our interpretation of any ambiguity, rather than utilizing different interpretations in different circumstances.
 
@@ -94,26 +93,25 @@ These requirements on behavior apply to _members_ at all times, even when they a
     * **Stereotyping**. Someone has _stereotyped_ them or a group they belong to.
  * **Arbiter**. We define _arbiter_ as one or more persons designated by us to resolve complaint of an _incident_.
  * **Behavior**. We define _behavior_ to include all and only observable actions of people, and to explicitly exclude any private thoughts, beliefs, ideas, attitudes, morals, and emotions.
- * **Civil**. We define civil individuals as individuals who, in our sole estimation, do not and will not engage in the following behaviors during _active participation_ or _inactive participation_:
-    * **Criminal Offenses**. Any illegal behavior considered a criminal offense in the community's country of jurisdiction.
-    * **Community Sabotage**. Any behavior directed at sabotaging the community.
-    * **Professional Sabotage**. Any behavior directed at sabotaging a _member_'s career for any reason that is unrelated to the _member_'s performance in their profession, including but not limited to attempting to no-platform a _member_, pressuring an employer to fire a _member_, or encouraging others to do the same.
+ * **Civil**. We define civil individuals as individuals who, in our sole estimation, do not and will not engage in the following behaviors during _active participation_ or _inactive participation_: criminal offenses, _community sabotage_, or _professional sabotage_.
  * **Communication**. We define _communication_ as any transmission of information between people, including but not limited to verbal, written, electronic, pictorial, gestural, and tactile.
  * **Community**. We define our _community_ as a group of people with a shared professional interest that exists at some location (online or geographical) and within some span of time. The boundaries of the community are dictated by us, but cannot extend in space or time to any place where we do not have the actual or legal ability to impose FCOP-prescribed consequences on _violators_.
+ * **Community Sabotage**. We define _community sabotage_ to be any behavior that does have or is intended to have the effect of harming the professional goals of the _community_, including but not limited to attempting to defund or blackball the _community_, attempting to disrupt or diminish the activities of the _community_, and authoring, spreading, or endorsing libel or slander about the _community_.
  * **Denigration**. We define _denigration_ as the _communication_ of the idea that any physical or mental characteristic of any person is superior or inferior to any other. This explicitly excludes communication of the idea that objective, falsifiable statements espoused by someone are inconsistent or unsupported or contradicted by data.
  * **Discrimination**. We define _discrimination_ as any favoritism shown or withheld to someone either on the basis of a stereotype or a non-community related group membership.
- * **Doxxing** We define _doxxing_ to be the unauthorized dissemination of any personal details about _members_ learned during _active participation_ and not publicly available, including but not limited to real name, address, phone number, email address, or photo identity.
+ * **Doxxing** We define _doxxing_ to be the unauthorized dissemination of any personal details about _members_ learned during _active participation_ and not easily accessible to the public, including but not limited to real name, address, phone number, email address, or photo identity.
  * **Harassment**. We define _harassment_ as an _interaction_ with someone who does not consent to the interaction. For interactions of a professional nature, you may assume consent for the first interaction, until the recipient communicates otherwise (examples include handshakes, looking at someone who is speaking, providing feedback). For all other interactions, you must assume non-consent until the person clearly and unambiguously communicates otherwise (examples include persistent gaze at someone who is not speaking, sexual interactions of any kind).
  * **Inactive Participation**. We define _inactive participation_ to include the behavior of members at all times and under all circumstances.
  * **Incident**. We define _incident_ as a possible infringement of the FCOP.
  * **Interaction**. We define _interaction_ as any one-on-one communication, physical contact (with person or property), close proximity, or persistent gaze. Interaction does not include opt-in, broadcast-based communication within the Community.
  * **Members**. We define a _member_ of the community to be any civil individual who we allow to actively participate in the community.
  * **Moralizing**. We define _moralizing_ as an attempt to evangelize one's moral system to others, whether by communicating the idea that their moral system is superior, by denigrating the moral system of others, or by pressuring others to profess or practice their moral system.
+ * **Professional Sabotage**. We define _professional sabotage_ to be any behavior that does have or is intended to have the effect of harming a _member_'s career for any reason that is unrelated to the _member_'s performance in their professional duties, including but not limited to attempting to no-platform, blackball, or fire a _member_ because of physical or mental characteristics orthogonal to the performance of their professional duties; or encouraging others to engage in such behavior.
  * **Retaliation**. We define _retaliation_ as the imposition of any _negative consequence_ on a _member_ for their reporting of an _incident_, where _negative consequence_ is defined as any consequence that has a negative effect on the _member_'s professional or social standing.
  * **Shaming**. We define _shaming_ to be unauthorized, _negative_ communication to non-_members_ about a _member_'s (non-public) behavior inside the _community_, in such a way that the identity of the _member_ can be discerned, where _negative_ is defined by the identified _member_ on a case-by-case basis. Private communication to non-_member_'s is exempted from this restriction, so long as the communication is kept confidential by the non-_member_'s.
  * **Stereotyping**. We define _stereotyping_ as _communication_ that implies one characteristic of an individual based on their perceived membership in some (unrelated or loosely related) group or category.
- * **Violation**. We define _violation_ as an actual infringement of the FCOP as determined by an official arbiter.
- * **Violator**. We define _violator_ as an _accused_ member who has broken the terms and conditions of FCOP (as determined by an _arbiter_).
+ * **Violation**. We define _violation_ as an actual infringement of the FCOP as determined by an _arbiter_.
+ * **Violator**. We define _violator_ as an _accused_ member who has broken the terms and conditions of FCOP, as determined by an _arbiter_.
  * **We**. We define _we_ to be those who have the actual or legal ability to impose FCOP-prescribed consequences on _violators_ within the physical or virtual boundaries of the _community_.
 
 ## License
