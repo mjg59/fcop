@@ -53,9 +53,11 @@ These requirements on behavior apply to _members_ at all times, even when they a
 
 ## Member Rights
 
-**Right to Semi-Private Communication**. During _active participation_, you may take phone calls, direct messages, emails, and other semi-private forms of communication. Although private communication with people outside of the community is not bound by FCOP, we expect all communication that can be discerned by other members will comply with the requirements of FCOP.
+**Right to Contact**. _Members_ have a right to clear, up-to-date contact information for use in reporting _incidents_. _Members_ have a right to accurate estimation on how quickly _members_ will receive a response after an _incident_ is reported. We pledge to make reasonable efforts to make contact information and estimation accessible regardless of physical or intellectual disability.
 
-**Right to Private Consumption**. During _active participation_, you may consume material on your own personal devices and from your own channels of communication, and this material does not have to conform to FCOP, assuming the material is not easily discernible to others.
+**Right to Semi-Private Communication**. During _active participation_, _members_ have a right to take phone calls, direct messages, emails, and other semi-private forms of communication. Although private communication with people outside of the community is not bound by FCOP, all communication that can be discerned by other members must comply with the requirements of FCOP.
+
+**Right to Private Consumption**. During _active participation_, _members_ may consume material on their own personal devices and from their own private channels of communication, and this material does not have to conform to FCOP, assuming the material is not easily discernible to others.
 
 **Right to Non-Coercion**. _Members_ may not be coerced to share private information, make statements, or otherwise perform any function which is not essential for the scope of participating in a given _community_ activity.
 
