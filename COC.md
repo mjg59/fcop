@@ -6,7 +6,7 @@ Copyright &copy; 2016 - 2017 Fantasyland Institute of Learning. All Rights Reser
 
 The Fantasyland Institute of Learning Code of Professionalism (FCOP) dictates the terms and conditions under which we allow you to participate in the _community_.
 
-The purpose of FCOP is to facilitate an inclusive, productive _community_ in the presence of pluralism. To accomplish this goal, we restrict the _community_ to _civil_ individuals, and protect such people from _discrimination_, _stereotyping_, _harassment_, _moralizing_, _denigration_, and breaches of privacy.
+The purpose of FCOP is to facilitate an inclusive, productive _community_ of professionals in the presence of pluralism. To accomplish this goal, we restrict the _community_ to _civil_ individuals, and protect such people from _discrimination_, _stereotyping_, _harassment_, _moralizing_, _denigration_, and breaches of privacy.
 
 FCOP is explicitly not intended to impose any system of politics, religion, ideologies, morals, or values onto _members_, but rather, to allow people who do not share these systems to come together and work toward professional goals.
 
@@ -47,9 +47,9 @@ During _inactive participation_, you must behave as required in this section, an
 
 These requirements on behavior apply to _members_ at all times, even when they are not actively participating in the _community_.
 
-## Violations
+## Reporting
 
-**Reporting Requirements**. _Active participation_ _incidents_ must be reported to us within 15 days by _aggrieved_ _members_. We will investigate third-party reports of such _incidents_ at our sole discretion. _Inactive participation_ _incidents_ may be reported to us within 5 years of their occurrence, by _members_ and _non-members_ alike. Information that any _member_ or _non-member_ believes may affect our view of the _civility_ of individuals may be reported at any time.
+**Reporting Requirements**. _Active participation incidents_ must be reported to us within 15 days by _aggrieved members_. We will investigate third-party reports of such _incidents_ at our sole discretion. _Inactive participation incidents_ must be reported to us within 5 years of their occurrence, by _members_ or _non-members_. Information that any _member_ or _non-member_ believes may affect our view of the _civility_ of individuals may be reported at any time.
 
 **Unofficial Resolution**. For minor offenses, and only in cases where they prefer doing so, we encourage _aggrieved members_ to speak to _accused members_ directly, using the language of non-violent communication (NVC).
 
@@ -75,7 +75,7 @@ These requirements on behavior apply to _members_ at all times, even when they a
 
 ## Non-Member Rights
 
-**Right to Disclosure**. _Non-members_ who are prevented from participating in the _community_ on grounds of _incivility_ have a right to a full written disclosure of the rational resulting in the verdict. Further, such _non-members_ have the right to publicly share this disclosure.
+**Right to Disclosure**. _Non-members_ who are prevented from participating in the _community_ on grounds of _incivility_ have a right to a full written disclosure of the rational resulting in the verdict. Such _non-members_ have the right to publicly share this disclosure.
 
 ## Expectations
 
