@@ -12,15 +12,13 @@ To facilitate these goals, we do not impose any ideology onto _members_, nor do 
 
 ## Welcome Statement
 
-We welcome all _civil_ people regardless of any _personal attributes_ they have that are orthogonal to the professional goals of the _community_.
+We welcome all _civil_ individuals regardless of any _personal attributes_ they have that are orthogonal to the professional goals of the _community_.
 
 We pledge that we will enforce the terms and conditions set forth in FCOP, and that we will hold ourselves to these same standards, thereby setting a positive example for others to follow.
 
-We greatly value integrity and pledge to establish the highest levels of trust in _members_.
-
 ## Behavior
 
-We only allow _civil_ individuals to participate in the _community_. Beyond civility, we require that _members_ refrain from _unprofessional behavior_, which places additional requirements on _behavior_ during _active participation_ and _inactive participation_.
+We permit only _civil_ individuals to participate in the _community_. We further require that _members_ refrain from _unprofessional behavior_.
 
 ### Active Participation
 
