@@ -21,6 +21,4 @@ FCOP works well for professional events, open source projects, and other broad, 
 
 To adopt FCOP in your professional community, you may reproduce the text of [COC.md](COC.md) in any format you desire, or simply link to this repository with [FCOP badge](badge-fcop.png).
 
-<a href="https://github.com/fantasylandinst/fcop/">
 ![FCOP](badge-fcop.png)
-</a>
