@@ -26,11 +26,12 @@ We encourage everyone to assume the best in every interaction; to be open, hones
 
 We welcome any closed group of _members_ to engage in any _behavior_ for which there is explicit and unanimous mutual consent. In the absence of such consent, we impose the following restrictions during _active participation_, which are further clarified by the **Glossary**.
 
-* **Don't Stereotype**. _Communicate_ as if every person were unique.
-* **Don't Moralize**. Do not impose your moral system onto other others.
-* **Don't Denigrate**. Do not denigrate the _personal attributes_ of others.
 * **Don't Harass**. Do not _interact_ with anyone who does not consent to the _interaction_.
+* **Don't Stereotype**. _Communicate_ as if every person were unique.
+* **Don't Discriminate**. Do not show or withhold favoritism on the basis of a _stereotype_.
+* **Don't Denigrate**. Do not denigrate the _personal attributes_ of others.
 * **Don't Pry**. Do not eavesdrop on the private content or _communication_ of others.
+* **Don't Moralize**. Do not impose your moral system onto other others.
 
 These requirements on _behavior_ apply to _members_ only while they are actively participating in the _community_. The standing of _members_ is unaffected by _behavior_ that does not comply with these requirements if this _behavior_ occurs in other communities.
 
@@ -82,12 +83,12 @@ These requirements on _behavior_ apply to _members_ at all times, even when they
  * **Accused**.  We define _accused_ as a _member_ who has been attributed a violation by an _aggrieved member_.
  * **Active Participation**. We define _active participation_ to include the _behavior_ of _members_ while they are in the boundaries of the _community_.
  * **Aggrieved**. We define _aggrieved_ as a _member_ who believes that one or more of the following holds:
-    * **Breaches of Privacy**. Someone has violated their privacy.
-    * **Denigration**. Someone has _denigrated_ them or a group they belong to.
-    * **Discrimination**. Someone has _discriminated_ against them.
     * **Harassment**. Someone has _harassed_ them.
-    * **Moralizing**. Someone has _moralized_ them or a group they belong to.
+    * **Discrimination**. Someone has _discriminated_ against them.
     * **Stereotyping**. Someone has _stereotyped_ them or a group they belong to.
+    * **Denigration**. Someone has _denigrated_ them or a group they belong to.
+    * **Breaches of Privacy**. Someone has violated their privacy.
+    * **Moralizing**. Someone has _moralized_ them or a group they belong to.
  * **Arbiter**. We define _arbiter_ as one or more persons designated by us to resolve complaint of an _incident_.
  * **Behavior**. We define _behavior_ to include all and only observable actions of people, and to explicitly exclude all _personal attributes_.
  * **Civil**. We define civil individuals as individuals who, in our sole estimation, do not and will not engage in the following _behaviors_ during _active participation_ or _inactive participation_: _criminal behavior_, _community sabotage_, or _professional sabotage_.
@@ -111,7 +112,7 @@ These requirements on _behavior_ apply to _members_ at all times, even when they
   * **Stereotyping**. We define _stereotyping_ as _communication_ of a _stereotype_.
  * **Violation**. We define _violation_ as an actual infringement of FCOP as determined by an _arbiter_.
  * **Violator**. We define _violator_ as an _accused member_ who has broken the terms and conditions of FCOP, as determined by an _arbiter_.
- * **Unprofessional Behavior**. We define _unprofessional behavior_ as _stereotyping_, _moralizing_, _denigration_, _harassing_, and _prying_ during _active participation_, and _doxing_ and _retaliating_ during _inactive participation_.
+ * **Unprofessional Behavior**. We define _unprofessional behavior_ as _harassing_, _discrimination_, _stereotyping_, _moralizing_, _denigration_, and _prying_ during _active participation_, and _doxing_ and _retaliating_ during _inactive participation_.
  * **We**. We define _we_ to be those who have the actual or legal ability to impose FCOP-prescribed consequences on _violators_ within the physical or virtual boundaries of the _community_.
 
 ## License
