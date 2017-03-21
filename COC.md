@@ -6,7 +6,7 @@ Copyright &copy; 2016 - 2017 Fantasyland Institute of Learning. All Rights Reser
 
 The Fantasyland Institute of Learning Code of Professionalism (FCOP) dictates the terms and conditions under which we allow you to participate in the _community_.
 
-The purpose of FCOP is to facilitate an inclusive and diverse _community_ of professionals who productively work towards common professional goals.
+The purpose of FCOP is to facilitate an inclusive and diverse _community_ of professionals who productively work towards shared professional goals.
 
 To facilitate these goals, we do not impose any ideology onto _members_, nor do we restrict participation based on people's _personal attributes_ or their _behavior_ in other communities. Instead, we restrict the _community_ to _civil_ individuals and we require that _members_ refrain from _unprofessional behavior_.
 
@@ -27,11 +27,11 @@ We encourage everyone to assume the best in every interaction; to be open, hones
 We welcome any closed group of _members_ to engage in any _behavior_ for which there is explicit and unanimous mutual consent. In the absence of such consent, we impose the following restrictions during _active participation_, which are further clarified by the **Glossary**.
 
 * **Don't Harass**. Do not _interact_ with anyone who does not consent to the _interaction_.
-* **Don't Stereotype**. _Communicate_ as if every person were unique.
+* **Don't Stereotype**. _Communicate_ as if every individual were unique.
 * **Don't Discriminate**. Do not show or withhold favoritism on the basis of a _stereotype_.
 * **Don't Denigrate**. Do not denigrate the _personal attributes_ of others.
 * **Don't Pry**. Do not eavesdrop on the private content or _communication_ of others.
-* **Don't Moralize**. Do not impose your moral system onto other others.
+* **Don't Moralize**. Do not impose your moral system onto others.
 
 These requirements on _behavior_ apply to _members_ only while they are actively participating in the _community_. The standing of _members_ is unaffected by _behavior_ that does not comply with these requirements if this _behavior_ occurs in other communities.
 
@@ -50,7 +50,7 @@ These requirements on _behavior_ apply to _members_ at all times, even when they
 
 **Unofficial Resolution**. For minor _incidents_, and only in cases where they prefer doing so, we encourage _aggrieved members_ to speak to _accused members_ directly, using the language of non-violent communication (NVC).
 
-**Official Resolution**. For official resolution, _aggrieved members_ may contact us, and we will appoint an _arbiter_. The _arbiter_ will speak individually to all parties, including witnesses, before deciding on a course of action, which will involve rejecting the _incident_, or accepting it as a _violation_ and imposing a consequence on the _violator_.
+**Official Resolution**. For official resolution, _aggrieved members_ must contact us, and we will appoint an _arbiter_. The _arbiter_ will speak individually to all parties, including witnesses, before deciding on a course of action, which will involve rejecting the _incident_, or accepting it as a _violation_ and imposing a consequence on the _violator_.
 
 **Consequences**. _Violators_ may be asked to apologize or to undergo training, counseling, or mediation as a condition of continued participation. They may also be ejected and banned from the _community_, at the sole discretion of the _arbiter_. In no case will the consequence for violating FCOP exceed banishment, unless the violation is also governed by separate contractual agreements or local laws. We reserve the right to re-evaluate a previously imposed _consequence_ based on new information or a change in community leadership.
 
@@ -66,7 +66,7 @@ These requirements on _behavior_ apply to _members_ at all times, even when they
 
 **Right to Non-Coercion**. _Members_ have a right to not be coerced to share private information, make statements, or otherwise perform any function that is not essential for the scope of participating in a given _community_ activity.
 
-**Right to Disclosure**. Individuals who are banished from the _community_ or who are prevented from participation on grounds of incivility have a right to a full written disclosure of the arbitration, evidence, or rationale. Such individuals have the right to publicly share this disclosure without further repercussions from the _community_.
+**Right to Disclosure**. Individuals who are banished from the _community_ or who are prevented from participation on grounds of incivility have a right to a full written disclosure of the arbitration, evidence, or rationale resulting in the decision. Such individuals have the right to publicly share this disclosure without further repercussions from the _community_.
 
 ## Miscellaneous
 
@@ -76,7 +76,7 @@ These requirements on _behavior_ apply to _members_ at all times, even when they
 
 ## Glossary
 
- * **Accused**.  We define _accused_ as a _member_ who has been attributed a violation by an _aggrieved member_.
+ * **Accused**.  We define _accused_ as a _member_ who has been attributed a _violation_ by an _aggrieved member_.
  * **Active Participation**. We define _active participation_ to include the _behavior_ of _members_ while they are in the boundaries of the _community_.
  * **Aggrieved**. We define _aggrieved_ as a _member_ who believes that one or more of the following holds:
     * **Harassment**. Someone has _harassed_ them.
