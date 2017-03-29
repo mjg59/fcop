@@ -8,7 +8,7 @@ The Fantasyland Institute of Learning Code of Professionalism (FCOP) dictates th
 
 The purpose of FCOP is to facilitate an inclusive and diverse _community_ of professionals who productively work towards shared professional goals.
 
-To facilitate these goals, we do not impose any ideology onto _members_, nor do we restrict participation based on people's _personal attributes_ or their _behavior_ in other communities. Instead, we restrict the _community_ to _civil_ individuals and we require that _members_ refrain from _unprofessional behavior_.
+To facilitate these goals, we do not impose any ideology onto _members_, nor do we restrict participation based on people's _personal attributes_ or their _behavior_ in other communities. Instead, we restrict the _community_ to _civil_ individuals and we require that all _members_ refrain from _unprofessional behavior_.
 
 ## Welcome Statement
 
