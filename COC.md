@@ -8,7 +8,7 @@ The Fantasyland Institute of Learning Code of Professionalism (FCOP) dictates th
 
 The purpose of FCOP is to facilitate an inclusive and diverse _community_ of professionals who productively work towards shared professional goals.
 
-To facilitate these goals, we do not impose any ideology onto _members_, nor do we restrict participation based on people's _personal attributes_ or their _behavior_ in other communities. Instead, we restrict the _community_ to _civil_ individuals and we require that _members_ refrain from _unprofessional behavior_.
+To facilitate these goals, we do not impose any ideology onto _members_, nor do we restrict participation based on people's _personal attributes_ or their _behavior_ in other communities. Instead, we restrict the _community_ to _civil_ individuals and we require that all _members_ refrain from _unprofessional behavior_.
 
 ## Welcome Statement
 
@@ -29,9 +29,8 @@ We welcome any closed group of _members_ to engage in any _behavior_ for which t
 * **Don't Harass**. Do not _interact_ with anyone who does not consent to the _interaction_.
 * **Don't Stereotype**. _Communicate_ as if every individual were unique.
 * **Don't Discriminate**. Do not show or withhold favoritism on the basis of a _stereotype_.
-* **Don't Denigrate**. Do not denigrate the _personal attributes_ of others.
-* **Don't Pry**. Do not eavesdrop on the private content or _communication_ of others.
-* **Don't Moralize**. Do not impose your moral system onto others.
+* **Don't Shame**. Do not shame the _personal attributes_ of others.
+* **Don't Pry**. Do not attempt to infer the private content or _communication_ of others.
 
 These requirements on _behavior_ apply to _members_ only while they are actively participating in the _community_. The standing of _members_ is unaffected by _behavior_ that does not comply with these requirements if this _behavior_ occurs in other communities.
 
@@ -52,7 +51,7 @@ These requirements on _behavior_ apply to _members_ at all times, even when they
 
 **Official Resolution**. For official resolution, _aggrieved members_ must contact us, and we will appoint an _arbiter_. The _arbiter_ will speak individually to all parties, including witnesses, before deciding on a course of action, which will involve rejecting the _incident_, or accepting it as a _violation_ and imposing a consequence on the _violator_.
 
-**Consequences**. _Violators_ may be asked to apologize or to undergo training, counseling, or mediation as a condition of continued participation. They may also be ejected and banned from the _community_, at the sole discretion of the _arbiter_. In no case will the consequence for violating FCOP exceed banishment, unless the violation is also governed by separate contractual agreements or local laws. We reserve the right to re-evaluate a previously imposed _consequence_ based on new information or a change in community leadership.
+**Consequences**. _Violators_ may be asked to apologize or to undergo training, counseling, or mediation as a condition of continued participation. They may also be ejected and banned from the _community_, at the sole discretion of the _arbiter_. In no case will the consequence exceed banishment, unless the violation is also governed by separate contractual agreements or local laws. We reserve the right to re-evaluate a previously imposed _consequence_ based on new information or a change in community leadership.
 
 **Social Rehabilitation**. We will only banish individuals for a determined number of years, not to exceed 5 years. Formerly banned parties can be reintegrated into the _community_ through a rehabilitation process determined by us.
 
@@ -66,7 +65,7 @@ These requirements on _behavior_ apply to _members_ at all times, even when they
 
 **Right to Non-Coercion**. _Members_ have a right to not be coerced to share private information, make statements, or otherwise perform any function that is not essential for the scope of participating in a given _community_ activity.
 
-**Right to Disclosure**. Individuals who are banished from the _community_ or who are prevented from participation on grounds of incivility have a right to a full written disclosure of the arbitration, evidence, or rationale resulting in the decision. Such individuals have the right to publicly share this disclosure without further repercussions from the _community_.
+**Right to Disclosure**. Individuals who are banished from the _community_ or who are prevented from participation on grounds of incivility have a right to a full written disclosure of the arbitration or rationale resulting in the decision, including (anonymized) supporting evidence. Such individuals have the right to publicly share this disclosure, provided the disclosure is shared in its entirety.
 
 ## Miscellaneous
 
@@ -82,17 +81,15 @@ These requirements on _behavior_ apply to _members_ at all times, even when they
     * **Harassment**. Someone has _harassed_ them.
     * **Discrimination**. Someone has _discriminated_ against them.
     * **Stereotyping**. Someone has _stereotyped_ them or a group they belong to.
-    * **Denigration**. Someone has _denigrated_ them or a group they belong to.
-    * **Breaches of Privacy**. Someone has violated their privacy.
-    * **Moralizing**. Someone has _moralized_ them or a group they belong to.
- * **Arbiter**. We define _arbiter_ as one or more persons designated by us to resolve complaint of an _incident_.
+    * **Shaming**. Someone has _shamed_ them or a group they belong to.
+    * **Prying**. Someone has violated their privacy.
+ * **Arbiter**. We define _arbiter_ as one or more persons designated by us to resolve an _incident_ report.
  * **Behavior**. We define _behavior_ to include all and only observable actions of people, and to explicitly exclude all _personal attributes_.
  * **Civil**. We define civil individuals as individuals who, in our sole estimation, do not and will not engage in the following _behaviors_ during _active participation_ or _inactive participation_: _criminal behavior_, _community sabotage_, or _professional sabotage_.
  * **Communication**. We define _communication_ as any transmission of information between people, including but not limited to verbal, written, electronic, pictorial, gestural, and tactile.
  * **Community**. We define the _community_ as a group of people with a shared professional interest that exists at some location (online or geographical) and within some span of time. The boundaries of the community are dictated by us, but cannot extend in space or time to any place where we do not have the actual or legal ability to impose FCOP-prescribed consequences on _violators_.
  * **Community Sabotage**. We define _community sabotage_ to be any _behavior_ that does have or is intended to have the effect of harming the professional goals of the _community_, including but not limited to attempting to defund or blackball the _community_, attempting to disrupt or diminish the activities of the _community_, and authoring, spreading, or endorsing libel or slander about the _community_; or encouraging others to do the same. Explicitly excluded from this definition is _communication_ of truthful information regarding the _community_ and truthful criticism on the failure of the _community_ to optimally strive towards its professional goals.
  * **Criminal Behavior**. We define _criminal behavior_ as any behavior that is illegal under the laws of the governing jurisdiction and in which there is a victim who is not the perpetrator.
- * **Denigration**. We define _denigration_ as the _communication_ of the idea that any _personal attribute_ of any person is inferior. Explicitly excluded from this definition is _communication_ of the idea that objective, falsifiable statements espoused by a _member_ are logically inconsistent, contradicted by data, or unsupported by data; as well as _communication_ of the idea that some _personal attributes_ offer an advantage or disadvantage in obtaining measurable objectives.
  * **Discrimination**. We define _discrimination_ as any favoritism shown or withheld to someone on the basis of a _stereotype_.
  * **Doxxing** We define _doxxing_ to be the unauthorized dissemination of any _personal attributes_ of _members_ learned during _active participation_ and not previously known to the public.
  * **Harassment**. We define _harassment_ as an _interaction_ with someone who does not consent to the _interaction_. For _interactions_ of a professional nature, you may assume consent for the first interaction, until the recipient _communicates_ otherwise (examples include handshakes, looking at someone who is speaking, providing feedback). For all other _interactions_, you must assume non-consent until the person clearly and unambiguously _communicates_ otherwise (examples include persistent gaze at someone who is not speaking, sexual interactions of any kind).
@@ -100,16 +97,16 @@ These requirements on _behavior_ apply to _members_ at all times, even when they
  * **Incident**. We define _incident_ as a possible infringement of FCOP.
  * **Interaction**. We define _interaction_ as any one-on-one _communication_, physical contact (with person or property), close proximity, or persistent gaze. Explicitly excluded from this definition is opt-in, broadcast-based _communication_ within the _community_.
  * **Members**. We define a _member_ of the _community_ to be any _civil_ individual who we allow to actively participate in the _community_.
- * **Moralizing**. We define _moralizing_ as an attempt to evangelize one's moral system to others, whether by _communicating_ the idea that their moral system is superior, by denigrating the moral system of others, or by imposing on others or pressuring others to profess or practice their moral system.
- * **Personal Attribute**. We define _personal attribute_ to be any characteristic of an individual, including but not limited to gender, gender-expression, gender-orientation, sex, sexual-orientation, race, ethnic origin, skin color, physical disability, intellectual disability, age, size, strength, and appearance; personality traits, views, values, beliefs, and attitudes; facts, including professions, real name, address, and membership in groups and categories.
+ * **Personal Attribute**. We define _personal attribute_ to be the presence or absence of any individual characteristic, including but not limited to gender, gender-expression, gender-orientation, sex, sexual-orientation, race, ethnic origin, skin color, physical disability, intellectual disability, age, size, strength, appearance, and body mods; personality traits, views, values, beliefs, attitudes, religion, and moral system; facts, including profession, type and extent of education, real name, address, and membership in groups and categories.
  * **Professional Sabotage**. We define _professional sabotage_ to be any _behavior_ that does have or is intended to have the effect of harming a _member's_ career, including but not limited to attempting to no-platform, blackball, or fire a _member_; or encouraging others to engage in such _behavior_. Explicitly excluded from _professional sabotage_ is any harmful _behavior_ that is exclusively motivated by and _communicated_ in terms of the _member_'s failure to fulfill their professional duties.
  * **Prying**. We define _prying_ to be any unauthorized attempt to infer the _communication_ of semi-private forms of communication (including phone calls, direct messages, texts, private conversations), or to infer content on private devices or private channels of communication belonging to other _members_.
- * **Retaliation**. We define _retaliation_ as the imposition of any _negative consequence_ on a _member_ for their reporting of an _incident_, where _negative consequence_ is defined as any consequence that does or is intended to harm the _member's_ career.
+ * **Retaliation**. We define _retaliation_ as the imposition of any _negative consequence_ on a _member_ for their reporting of an _incident_, where _negative consequence_ is defined as any consequence that does or is intended to have the effect of harming the _member's_ career.
+ * **Shaming**. We define _shaming_ as the _communication_ of the idea that any _personal attribute_ of any person is inferior. Explicitly excluded from this definition is _communication_ of the idea that objective, falsifiable statements espoused by a _member_ are logically inconsistent, contradicted by data, or unsupported by data; as well as _communication_ of the idea that some _personal attributes_ offer an advantage or disadvantage in obtaining specified measurable objectives.
  * **Stereotype**. We define a _stereotype_ to be a belief in the presence of a _personal attribute_ of an individual based on their perceived membership in some (unrelated or loosely related) group or category.
   * **Stereotyping**. We define _stereotyping_ as _communication_ of a _stereotype_.
  * **Violation**. We define _violation_ as an actual infringement of FCOP as determined by an _arbiter_.
  * **Violator**. We define _violator_ as an _accused member_ who has broken the terms and conditions of FCOP, as determined by an _arbiter_.
- * **Unprofessional Behavior**. We define _unprofessional behavior_ as _harassing_, _discrimination_, _stereotyping_, _moralizing_, _denigration_, and _prying_ during _active participation_, and _doxing_ and _retaliating_ during _inactive participation_.
+ * **Unprofessional Behavior**. We define _unprofessional behavior_ as _harassing_, _discrimination_, _stereotyping_, _shaming_, and _prying_ during _active participation_, and _doxing_ and _retaliating_ during _inactive participation_.
  * **We**. We define _we_ to be those who have the actual or legal ability to impose FCOP-prescribed consequences on _violators_ within the physical or virtual boundaries of the _community_.
 
 ## License
