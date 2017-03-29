@@ -106,7 +106,7 @@ These requirements on _behavior_ apply to _members_ at all times, even when they
   * **Stereotyping**. We define _stereotyping_ as _communication_ of a _stereotype_.
  * **Violation**. We define _violation_ as an actual infringement of FCOP as determined by an _arbiter_.
  * **Violator**. We define _violator_ as an _accused member_ who has broken the terms and conditions of FCOP, as determined by an _arbiter_.
- * **Unprofessional Behavior**. We define _unprofessional behavior_ as _harassing_, _discrimination_, _stereotyping_, _shaming_, and _prying_ during _active participation_, and _doxing_ and _retaliating_ during _inactive participation_.
+ * **Unprofessional Behavior**. We define _unprofessional behavior_ as _harassing_, _discrimination_, _stereotyping_, _shaming_, and _prying_ during _active participation_, and _doxxing_ and _retaliating_ during _inactive participation_.
  * **We**. We define _we_ to be those who have the actual or legal ability to impose FCOP-prescribed consequences on _violators_ within the physical or virtual boundaries of the _community_.
 
 ## License
