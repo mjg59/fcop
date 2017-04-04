@@ -19,6 +19,8 @@ Professional communities are inclusive and diverse. They do not take sides in re
 
 FCOP works well for professional events, open source projects, and other broad, open communities that are squarely focused on professional rather than social and personal goals.
 
-To adopt FCOP in your professional community, you may reproduce the text of [COC.md](COC.md) in any format you desire, or simply link to this repository with [FCOP badge](badge-fcop.png).
+To adopt FCOP in your professional community, you must pledge to uphold FCOP in your community and satisfy your obligations as described in FCOP (including posting clear, accessible, up-to-date contact information for purposes of reporting incidents).
+
+As part of adopting FCOP, you may reproduce the text of [COC.md](COC.md) in any format you desire, or simply link to this repository with [FCOP badge](badge-fcop.png).
 
 ![FCOP](badge-fcop.png)
