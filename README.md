@@ -1,4 +1,6 @@
+<a href="https://github.com/fantasylandinst/fcop">
 ![FCOP](https://img.shields.io/badge/FCOP-Adopted-0b4fbc.svg)
+</a>
 
 # FCOP
 
@@ -25,6 +27,10 @@ To adopt FCOP in your professional community, you must pledge to uphold FCOP in 
 
 As part of adopting FCOP, you may reproduce the text of [COC.md](COC.md) in any format you desire, or simply link to this repository with [FCOP large badge](badge-fcop.png), or the [FCOP small badge](https://img.shields.io/badge/FCOP-Adopted-0b4fbc.svg).
 
+<a href="https://github.com/fantasylandinst/fcop">
 ![FCOP](badge-fcop.png)
+</a>
 
+<a href="https://github.com/fantasylandinst/fcop">
 ![FCOP](https://img.shields.io/badge/FCOP-Adopted-0b4fbc.svg)
+</a>
