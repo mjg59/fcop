@@ -1,3 +1,5 @@
+![FCOP](https://img.shields.io/badge/FCOP-Adopted-0b4fbc.svg)
+
 # FCOP
 
 The home of FCOP, a code of conduct for professional communities.
@@ -21,6 +23,8 @@ FCOP works well for professional events, open source projects, and other broad, 
 
 To adopt FCOP in your professional community, you must pledge to uphold FCOP in your community and satisfy your obligations as described in FCOP (including posting clear, accessible, up-to-date contact information for purposes of reporting incidents).
 
-As part of adopting FCOP, you may reproduce the text of [COC.md](COC.md) in any format you desire, or simply link to this repository with [FCOP badge](badge-fcop.png).
+As part of adopting FCOP, you may reproduce the text of [COC.md](COC.md) in any format you desire, or simply link to this repository with [FCOP large badge](badge-fcop.png), or the [FCOP small badge](https://img.shields.io/badge/FCOP-Adopted-0b4fbc.svg).
 
 ![FCOP](badge-fcop.png)
+
+![FCOP](https://img.shields.io/badge/FCOP-Adopted-0b4fbc.svg)
