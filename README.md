@@ -27,10 +27,12 @@ To adopt FCOP in your professional community, you must pledge to uphold FCOP in 
 
 As part of adopting FCOP, you may reproduce the text of [COC.md](COC.md) in any format you desire, or simply link to this repository with [FCOP large badge](badge-fcop.png), or the [FCOP small badge](https://img.shields.io/badge/FCOP-Adopted-0b4fbc.svg).
 
+<br>
 <a href="https://github.com/fantasylandinst/fcop">
 <img src="badge-fcop.png" alt="FCOP Large Badge">
 </a>
 
+<br>
 <a href="https://github.com/fantasylandinst/fcop">
 <img src="https://img.shields.io/badge/FCOP-Adopted-0b4fbc.svg" alt="FCOP Small Badge">
 </a>
