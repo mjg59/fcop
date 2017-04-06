@@ -65,13 +65,17 @@ These requirements on _behavior_ apply to _members_ at all times, even when they
 
 **Right to Non-Coercion**. _Members_ have a right to not be coerced to share private information, make statements, or otherwise perform any function that is not essential for the scope of participating in a given _community_ activity.
 
-**Right to Disclosure**. Individuals who are banished from the _community_ or who are prevented from participation on grounds of incivility have a right to a high-level written disclosure of the rationale resulting in the decision, including a fully anonymized summary of supporting evidence. Such individuals have the right to publicly share this disclosure, provided the disclosure is shared in its entirety.
+**Right to Disclosure**. Individuals who are banished from the _community_ or who are prevented from participating on grounds of incivility have a right to a high-level written disclosure of the rationale resulting in the decision, including the identity of the _arbiter_ and their relationship to the _aggrieved_ (if applicable), and an anonymized summary of supporting evidence. Such individuals have the right to publicly share this disclosure, provided the disclosure is shared in its entirety.
+
+**Right to Unbiased Arbitration**. _Accused_ and _aggrieved members_ have a right to the appointment of a neutral _arbiter_, without preexisting connection to either party, nor vested interest in any particular outcome. Failing this, and at our sole discretion, _accused_ and _aggrieved members_ have a right to balanced choice of an _arbiter_, consisting of an even number of individuals, half of them approved by the _accused member_, half of them approved by the _aggrieved member_, and a tie-breaker approved by us.
 
 ## Miscellaneous
 
 **Criminal Behavior**. FCOP is not intended to supplant laws and regulations of governing jurisdictions, but rather, to impose a set of terms and conditions on membership in a community that goes above and beyond legal requirements. _Criminal behavior_ of any kind should be immediately reported to relevant authorities and dealt with as recommended by such authorities. Notwithstanding the foregoing, if _criminal behavior_ also violates terms and conditions of FCOP, we reserve the right to subject such behavior to arbitration.
 
 **Disputes of Interpretation**. In the event there is a dispute about the meaning of any term or clause in FCOP, we alone will clarify the intent. We pledge to be consistent in our interpretation of any ambiguity, rather than utilizing different interpretations in different circumstances.
+
+**Non-Endorsement**. In recognition of the pluralistic composition of the _community_, the _community_ does not endorse the views, values, religions, politics, beliefs, or attitudes of ourselves or of any _member_ of the _community_. No _member_ ever speaks for or represents the _community_, and neither do we speak for or represent the _community_ unless we are acting in our official capacities or claim to be doing so (and even then, only for the scope of the task).
 
 ## Glossary
 
