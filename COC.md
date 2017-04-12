@@ -67,7 +67,7 @@ These requirements on _behavior_ apply to _members_ at all times, even when they
 
 **Right to Disclosure**. Individuals who are banished from the _community_ or who are prevented from participating on grounds of incivility have a right to a high-level written disclosure of the rationale resulting in the decision, including the identity of the _arbiter_ and their relationship to the _aggrieved_ (if applicable), and an anonymized summary of supporting evidence. Such individuals have the right to publicly share this disclosure, provided the disclosure is shared in its entirety.
 
-**Right to Unbiased Arbitration**. _Accused_ and _aggrieved members_ have a right to the appointment of a neutral _arbiter_, without preexisting connection to either party, nor vested interest in any particular outcome. Failing this, and at our sole discretion, _accused_ and _aggrieved members_ have a right to balanced choice of an _arbiter_, consisting of an even number of individuals, half of them approved by the _accused member_, half of them approved by the _aggrieved member_, and a tie-breaker approved by us.
+**Right to Unbiased Arbitration**. _Accused_ and _aggrieved members_ have a right to the appointment of a balance _arbiter_, or a neutral _arbiter_, without preexisting connection to either party, nor vested interest in any particular outcome.
 
 ## Miscellaneous
 
