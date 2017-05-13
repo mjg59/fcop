@@ -65,3 +65,7 @@ Shaming includes all insults and making derogatory comments about people's perso
 ### 14. What happens if someone is assaulted inside a community?
 
 FCOP does not overlap with or supersede local jurisdiction. If anyone breaks any law, you should immediately report them to the appropriate legal authorities. Community leaders can assist in the reporting process, but FCOP itself is only intended to cover and apply to legal behavior.
+
+### 15. What are the ways in which FCOP can be customized?
+
+FCOP can be customized by imposing additional or overriding existing terms and conditions. FCOP can also be customized by specifying a set of guidelines for arbitration that help members understand the directives that arbiters will utilize when trying to resolve incidents.
