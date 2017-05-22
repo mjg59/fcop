@@ -119,6 +119,7 @@ These requirements on _behavior_ apply to _members_ at all times, even when they
     * We believe the individual likely to engage in _criminal behavior_, and we or other _members_ have contacted authorities to report the behavior that motivated this belief.
     * We believe the individual likely to engage in _community sabotage_, and the individual has participated in previous _community sabotage_ or there is credible evidence suggesting the individual is planning to engage in future _community sabotage_.
     * We believe the individual likely to engage in _professional sabotage_, and the individual has participated in previous _professional sabotage_ or there is credible evidence suggesting the individual is planning to engage in future _professional sabotage_.
+    * We believe that one or more of an individual's _personal beliefs and behaviours_ is incompatible with the community's goals. A list of these attributes (if any) will be prominently displayed alongside this document.
  * **Unprofessional Behavior**. We define _unprofessional behavior_ as _discrimination_, _harassing_, _prying_, _shaming_, and _stereotyping_ during _active participation_, and _doxxing_ and _retaliating_ during _inactive participation_.
  * **We**. We define _we_ to be those who have the actual or legal ability to impose FCOP-prescribed consequences on _violators_ within the physical or virtual boundaries of the _community_.
 
