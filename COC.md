@@ -84,7 +84,7 @@ These requirements on _behavior_ apply to _members_ at all times, even when they
 ## Glossary
 
  * **Accused**. We define _accused_ as a _member_ who has been attributed a _violation_ by an _aggrieved member_.
- * **Active Participation**. We define _active participation_ to include the _behavior_ of _members_ while they are in the boundaries of the _community_.
+ * **Active Participation**. We define _active participation_ to include the _behavior_ of _members_ under circumstances explicitly defined by the _community_. Any _community_ may define _active participation_ as they see fit, up to and including all locations at all times. The boundaries of _active participation_ for a given _community_ will be explicitly enumerated alongside this document.
  * **Aggrieved**. We define _aggrieved_ as a _member_ who believes that one or more of the following holds:
     * **Discrimination**. Someone has _discriminated_ against them.
     * **Harassment**. Someone has _harassed_ them.
