@@ -115,7 +115,7 @@ These requirements on _behavior_ apply to _members_ at all times, even when they
  * **Violation**. We define _violation_ as an actual infringement of FCOP as determined by an _arbiter_.
  * **Violator**. We define _violator_ as an _accused member_ who has broken the terms and conditions of FCOP, as determined by an _arbiter_.
  * **Uncivil**. We define _uncivil_ individuals as individuals for whom one or more of the following currently hold:
-    * We believe the individual likely to engage in _criminal behavior_, and we or other _members_ have contacted authorities to report the behavior that motivated this belief.
+    * We believe the individual likely to engage in _criminal behavior_.
     * We believe the individual likely to engage in _community sabotage_, and the individual has participated in previous _community sabotage_ or there is credible evidence suggesting the individual is planning to engage in future _community sabotage_.
     * We believe the individual likely to engage in _professional sabotage_, and the individual has participated in previous _professional sabotage_ or there is credible evidence suggesting the individual is planning to engage in future _professional sabotage_.
  * **Unprofessional Behavior**. We define _unprofessional behavior_ as _discrimination_, _harassing_, _prying_, _shaming_, and _stereotyping_ during _active participation_, and _doxxing_ and _retaliating_ during _inactive participation_.
